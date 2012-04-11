@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gaphor xmlns="http://gaphor.sourceforge.net/model" version="3.0" gaphor-version="0.15.0">
+<Package id="475fe162-838b-11e1-ab4f-001e4c781b50">
+<name>
+<val><![CDATA[New model]]></val>
+</name>
+<ownedDiagram>
+<reflist>
+<ref refid="4760265e-838b-11e1-ab4f-001e4c781b50"/>
+<ref refid="07929268-838c-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</ownedDiagram>
+</Package>
+<Diagram id="4760265e-838b-11e1-ab4f-001e4c781b50">
+<name>
+<val><![CDATA[main]]></val>
+</name>
+<package>
+<ref refid="475fe162-838b-11e1-ab4f-001e4c781b50"/>
+</package>
+<canvas>
+<item type="CommentItem" id="4e0f74f0-838b-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 24.0, 62.0)</val>
+</matrix>
+<width>
+<val>96.0</val>
+</width>
+<height>
+<val>127.0</val>
+</height>
+<subject>
+<ref refid="4e0f5f2e-838b-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="83460d46-838b-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 144.0, 63.0)</val>
+</matrix>
+<width>
+<val>95.0</val>
+</width>
+<height>
+<val>128.0</val>
+</height>
+<subject>
+<ref refid="834601fc-838b-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="9056f64e-838b-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 270.0, 60.0)</val>
+</matrix>
+<width>
+<val>97.0</val>
+</width>
+<height>
+<val>133.0</val>
+</height>
+<subject>
+<ref refid="9056eaaa-838b-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="a37a3d44-838b-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 25.0, 218.0)</val>
+</matrix>
+<width>
+<val>94.0</val>
+</width>
+<height>
+<val>139.0</val>
+</height>
+<subject>
+<ref refid="a37a30ba-838b-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="b2875f4c-838b-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 139.0, 216.0)</val>
+</matrix>
+<width>
+<val>94.0</val>
+</width>
+<height>
+<val>142.0</val>
+</height>
+<subject>
+<ref refid="b287542a-838b-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="b91be9b8-838b-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 265.0, 220.0)</val>
+</matrix>
+<width>
+<val>97.0</val>
+</width>
+<height>
+<val>139.0</val>
+</height>
+<subject>
+<ref refid="b91bdd88-838b-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+</canvas>
+</Diagram>
+<Comment id="4e0f5f2e-838b-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[INDEX]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="4e0f74f0-838b-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="834601fc-838b-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[ABOUT]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="83460d46-838b-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="9056eaaa-838b-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[WHO]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="9056f64e-838b-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="a37a30ba-838b-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[LOGIN]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="a37a3d44-838b-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="b287542a-838b-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[REGISTER]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="b2875f4c-838b-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="b91bdd88-838b-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[OPTIONS]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="b91be9b8-838b-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Diagram id="07929268-838c-11e1-ab4f-001e4c781b50">
+<name>
+<val><![CDATA[options]]></val>
+</name>
+<package>
+<ref refid="475fe162-838b-11e1-ab4f-001e4c781b50"/>
+</package>
+<canvas>
+<item type="CommentItem" id="0e15d2da-838c-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 38.0, 71.0)</val>
+</matrix>
+<width>
+<val>96.0</val>
+</width>
+<height>
+<val>124.0</val>
+</height>
+<subject>
+<ref refid="0e15c204-838c-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="13ada394-838c-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 167.0, 71.0)</val>
+</matrix>
+<width>
+<val>103.0</val>
+</width>
+<height>
+<val>126.0</val>
+</height>
+<subject>
+<ref refid="13ad97f0-838c-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="36f73342-838c-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 319.0, 77.0)</val>
+</matrix>
+<width>
+<val>93.0</val>
+</width>
+<height>
+<val>123.0</val>
+</height>
+<subject>
+<ref refid="36f726f4-838c-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="3f02d65e-838c-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 50.0, 237.0)</val>
+</matrix>
+<width>
+<val>126.0</val>
+</width>
+<height>
+<val>121.0</val>
+</height>
+<subject>
+<ref refid="3f02cb3c-838c-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="47977d56-838c-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 210.0, 234.0)</val>
+</matrix>
+<width>
+<val>115.0</val>
+</width>
+<height>
+<val>124.0</val>
+</height>
+<subject>
+<ref refid="47977220-838c-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+<item type="CommentItem" id="60bab258-838c-11e1-ab4f-001e4c781b50">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 357.0, 229.0)</val>
+</matrix>
+<width>
+<val>104.0</val>
+</width>
+<height>
+<val>129.0</val>
+</height>
+<subject>
+<ref refid="60baa65a-838c-11e1-ab4f-001e4c781b50"/>
+</subject>
+<show_stereotypes_attrs>
+<val>0</val>
+</show_stereotypes_attrs>
+</item>
+</canvas>
+</Diagram>
+<Comment id="0e15c204-838c-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[PATIENTS]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="0e15d2da-838c-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="13ad97f0-838c-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[TURNOS]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="13ada394-838c-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="36f726f4-838c-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[ESTUDIOS]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="36f73342-838c-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="3f02cb3c-838c-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[ESPECIALIDADES]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="3f02d65e-838c-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="47977220-838c-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[ESPECIALISTAS]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="47977d56-838c-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+<Comment id="60baa65a-838c-11e1-ab4f-001e4c781b50">
+<body>
+<val><![CDATA[INFORMES]]></val>
+</body>
+<presentation>
+<reflist>
+<ref refid="60bab258-838c-11e1-ab4f-001e4c781b50"/>
+</reflist>
+</presentation>
+</Comment>
+</gaphor>
