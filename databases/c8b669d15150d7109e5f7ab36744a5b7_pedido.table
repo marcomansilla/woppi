@@ -1,0 +1,70 @@
+(dp1
+S'mpracticante'
+p2
+(dp3
+S'type'
+p4
+S'reference medico'
+p5
+sS'sortable'
+p6
+I4
+sS'sql'
+p7
+S'INTEGER REFERENCES medico(id) ON DELETE CASCADE'
+p8
+ssS'paciente'
+p9
+(dp10
+g4
+S'reference paciente'
+p11
+sg6
+I2
+sg7
+S'INTEGER REFERENCES paciente(id) ON DELETE CASCADE'
+p12
+ssS'fecha'
+p13
+(dp14
+g4
+S'date'
+p15
+sg6
+I6
+sg7
+S'DATE'
+p16
+ssS'pedido'
+p17
+(dp18
+g4
+S'text'
+p19
+sg6
+I5
+sg7
+S'TEXT'
+p20
+ssS'msolicitante'
+p21
+(dp22
+g4
+S'reference medico'
+p23
+sg6
+I3
+sg7
+S'INTEGER REFERENCES medico(id) ON DELETE CASCADE'
+p24
+ssS'id'
+p25
+(dp26
+g4
+g25
+sg6
+I1
+sg7
+S'INTEGER PRIMARY KEY AUTOINCREMENT'
+p27
+ss.
