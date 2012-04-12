@@ -25,7 +25,17 @@ POR QUE WOPPI?
 Por que reflejado es MOBBI, es una larga historia que tiene poco de gracioso pero es buena historia xD
 
 
+ESTRUCTURA
+==========
+
+La estructura se encuentra en el archivo woppi.gaphor creado con Gaphor_
+
+
+
 TODO
 ====
 
 - Empezar!
+
+
+_Gaphor: http://gaphor.sourceforge.net/
