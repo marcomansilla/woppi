@@ -16,7 +16,7 @@ db.define_table('medico',
     Field('telefono','integer'),
     Field('celular','integer'),
     Field('comentarios','text'),
-    Field('fealta','datetime',label='Fecha Alta'),
+    Field('fealta','datetime',label='Fecha Alta',default=request.now,writable=False),
     format = '%(titulo)s %(apellido)s %(nombre)s'
     )
 
@@ -31,6 +31,6 @@ db.define_table('personal',
     Field('telefono','integer'),
     Field('celular','integer'),
     Field('comentarios','text'),
-    Field('fealta','datetime',default=request.now,writable=False),
+    Field('fealta','datetime',default=request.now,writable=False,label='Fecha de alta'),
     format = '%(id)s - %(apellido)s %(nombre)s'
     )
