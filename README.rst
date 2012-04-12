@@ -28,9 +28,14 @@ Por que reflejado es MOBBI, es una larga historia que tiene poco de gracioso per
 ESTRUCTURA
 ==========
 
-La estructura se encuentra en el archivo woppi.gaphor creado con Gaphor_
+La estructura y modelado se encuentra en el archivo woppi.gaphor creado con Gaphor_
 
+COMO USAR
+=========
 
+Clonar el repositorio en el folder applications de web2py y lanzar el servidor rocket.
+
+Creado con web2py 1.97
 
 TODO
 ====
