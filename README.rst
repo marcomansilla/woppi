@@ -38,4 +38,4 @@ TODO
 - Empezar!
 
 
-_Gaphor: http://gaphor.sourceforge.net/
+.. _Gaphor: http://gaphor.sourceforge.net/
