@@ -54,7 +54,9 @@ def _():
         ]
     response.menu+=[
         (SPAN('Gestion general',_style='color:yellow'),False, None, [
-                (T('personal'),False,URL('woppi','interno','personal')),
+                (T('Pacientes'),False,URL('woppi','publico','index')),
+                (T('Obras Sociales'),False,URL(app,'publico','osociales')),
+                (T('Especialidades'),False,URL(app,'interno','especialidades')),
             
         ])
         

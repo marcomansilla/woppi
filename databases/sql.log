@@ -135,3 +135,13 @@ CREATE TABLE historia(
     historia TEXT
 );
 success!
+timestamp: 2012-04-15T20:31:48.165297
+CREATE TABLE osocial(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre CHAR(512),
+    sigla CHAR(512),
+    direccion CHAR(512),
+    telefono CHAR(512),
+    comentarios TEXT
+);
+success!

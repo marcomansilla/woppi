@@ -1,5 +1,14 @@
 # -*- coding: utf-8 -*-
 
+db.define_table('osocial',
+    Field('nombre'),
+    Field('sigla'),
+    Field('direccion'),
+    Field('telefono'),
+    Field('comentarios','text'),
+    format = '%(id)s %(sigla)s'
+    )
+
 db.define_table('paciente',
     Field('nombre'),
     Field('apellido'),
@@ -9,7 +18,7 @@ db.define_table('paciente',
     Field('domicilio'),
     Field('telefono','integer'),
     Field('celular','integer'),
-    Field('osocial',label='Obra Social'),
+    Field('osocial', db.osocial, label='Obra Social'),
     Field('comentarios','text'),
     Field('fealta','datetime',label='Fecha Alta'),
     format = '%(id)s - %(apellido)s %(nombre)s %(dni)s'
