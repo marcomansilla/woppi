@@ -50,12 +50,15 @@ def _():
                         (T('Other Plugins'),False,'http://web2py.com/plugins'),
                         (T('Layout Plugins'),False,'http://web2py.com/layouts'),
                         ])
-                ]
-
+                ])
+        ]
+    response.menu+=[
         (SPAN('Gestion general',_style='color:yellow'),False, None, [
                 (T('personal'),False,URL('woppi','interno','personal')),
             
         ])
-         )]
+        
+
+         ]
 _()
 
