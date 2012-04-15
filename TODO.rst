@@ -17,3 +17,5 @@ TODO
     * Turnos cedidos
 
 * Manipulacion de imagenes
+    * OCR
+

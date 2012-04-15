@@ -1,0 +1,749 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 31 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 30 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Contents 32 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 30 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R6': class PDFCatalog 
+6 0 obj
+% Document Root
+<< /Outlines 8 0 R
+ /PageLabels 33 0 R
+ /PageMode /UseNone
+ /Pages 30 0 R
+ /Type /Catalog >>
+endobj
+% 'R7': class PDFInfo 
+7 0 obj
+<< /Author ()
+ /CreationDate (D:20120413185700+03'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R8': class PDFOutlines 
+8 0 obj
+<< /Count 24
+ /First 9 0 R
+ /Last 23 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+9 0 obj
+<< /Count 1
+ /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 10 0 R
+ /Last 10 0 R
+ /Next 11 0 R
+ /Parent 8 0 R
+ /Title (Descripcion del proyecto) >>
+endobj
+% 'Outline.22.0': class OutlineEntryObject 
+10 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Parent 9 0 R
+ /Title (Presentacion) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+11 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 12 0 R
+ /Parent 8 0 R
+ /Prev 9 0 R
+ /Title (Objetivos) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+12 0 obj
+<< /Count 9
+ /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /First 13 0 R
+ /Last 21 0 R
+ /Next 22 0 R
+ /Parent 8 0 R
+ /Prev 11 0 R
+ /Title (Documentacion tecnica) >>
+endobj
+% 'Outline.23.0': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 699.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 12 0 R
+ /Title (Analisis) >>
+endobj
+% 'Outline.23.1': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 669.0236
+ 0 ]
+ /Next 15 0 R
+ /Parent 12 0 R
+ /Prev 13 0 R
+ /Title (Captura de requisitos) >>
+endobj
+% 'Outline.23.2': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 639.0236
+ 0 ]
+ /Next 16 0 R
+ /Parent 12 0 R
+ /Prev 14 0 R
+ /Title (Estudio de factibilidad o viabilidad tecnica) >>
+endobj
+% 'Outline.23.3': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 609.0236
+ 0 ]
+ /Next 17 0 R
+ /Parent 12 0 R
+ /Prev 15 0 R
+ /Title (Requerimientos de Hardware) >>
+endobj
+% 'Outline.23.4': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 579.0236
+ 0 ]
+ /Next 18 0 R
+ /Parent 12 0 R
+ /Prev 16 0 R
+ /Title (Requerimientos de Software) >>
+endobj
+% 'Outline.23.5': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 549.0236
+ 0 ]
+ /Next 19 0 R
+ /Parent 12 0 R
+ /Prev 17 0 R
+ /Title (Requerimientos de Telecomunicaciones) >>
+endobj
+% 'Outline.23.6': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 519.0236
+ 0 ]
+ /Next 20 0 R
+ /Parent 12 0 R
+ /Prev 18 0 R
+ /Title (Estudio de factibilidad o viabilidad operativa) >>
+endobj
+% 'Outline.23.7': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 489.0236
+ 0 ]
+ /Next 21 0 R
+ /Parent 12 0 R
+ /Prev 19 0 R
+ /Title (Estudio de factibilidad o viabilidad legal) >>
+endobj
+% 'Outline.23.8': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 459.0236
+ 0 ]
+ /Parent 12 0 R
+ /Prev 20 0 R
+ /Title (Detalle de costos) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Next 23 0 R
+ /Parent 8 0 R
+ /Prev 12 0 R
+ /Title (Requisitos Funcionales) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+23 0 obj
+<< /Count 6
+ /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 396.0236
+ 0 ]
+ /First 24 0 R
+ /Last 29 0 R
+ /Parent 8 0 R
+ /Prev 22 0 R
+ /Title (Requisitos No Funcionales) >>
+endobj
+% 'Outline.24.0': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 363.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 23 0 R
+ /Title (Modelado de requisitos funcionales) >>
+endobj
+% 'Outline.24.1': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 333.0236
+ 0 ]
+ /Next 26 0 R
+ /Parent 23 0 R
+ /Prev 24 0 R
+ /Title (Identificacion de actores) >>
+endobj
+% 'Outline.24.2': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 303.0236
+ 0 ]
+ /Next 27 0 R
+ /Parent 23 0 R
+ /Prev 25 0 R
+ /Title (Historial de usuario) >>
+endobj
+% 'Outline.24.3': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Next 28 0 R
+ /Parent 23 0 R
+ /Prev 26 0 R
+ /Title (Casos de prueba) >>
+endobj
+% 'Outline.24.4': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 243.0236
+ 0 ]
+ /Next 29 0 R
+ /Parent 23 0 R
+ /Prev 27 0 R
+ /Title (Modelado de requisitos Funcionales) >>
+endobj
+% 'Outline.24.5': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 213.0236
+ 0 ]
+ /Parent 23 0 R
+ /Prev 28 0 R
+ /Title (Tarjetas de tarea) >>
+endobj
+% 'R30': class PDFPages 
+30 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 4 0 R
+ 5 0 R ]
+ /Type /Pages >>
+endobj
+% 'R31': class PDFStream 
+31 0 obj
+% page stream
+<< /Length 3168 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Descripcion del proyecto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Presentacion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.556412 Tw (Woppi es un sistema de gestion de especialidades medicas, concebido con el concepto basico de) Tj T* 0 Tw (integracion optima de tareas mediante la asignacion de roles a los usuarios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .703828 Tw (Las caracteristicas ofrecidas estan pensadas en la pacticidad del sistema para administrar actividades y) Tj T* 0 Tw (ofrecer informacion en tiempo real:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion de Medicos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion de Especialidades) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion de Pacientes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion de Turnos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pedidos de estudios) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Notificaciones varias) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.119983 Tw (Esta organizado de manera modular, de manera que en cualquier momento se puede prescindir de) Tj T* 0 Tw (cualquiera de estos o agregar nuevos modulos personalizados.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R32': class PDFStream 
+32 0 obj
+% page stream
+<< /Length 2410 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Objetivos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Documentacion tecnica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Analisis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Captura de requisitos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Estudio de factibilidad o viabilidad tecnica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Requerimientos de Hardware) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Requerimientos de Software) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Requerimientos de Telecomunicaciones) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Estudio de factibilidad o viabilidad operativa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Estudio de factibilidad o viabilidad legal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Detalle de costos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requisitos Funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requisitos No Funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Modelado de requisitos funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Identificacion de actores) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Historial de usuario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Casos de prueba) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Modelado de requisitos Funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Tarjetas de tarea) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R33': class PDFPageLabels 
+33 0 obj
+% Document Root
+<< /Nums [ 0
+ 34 0 R
+ 1
+ 35 0 R ] >>
+endobj
+% 'R34': class PDFPageLabel 
+34 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R35': class PDFPageLabel 
+35 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 36
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000559 00000 n
+0000000838 00000 n
+0000001117 00000 n
+0000001273 00000 n
+0000001519 00000 n
+0000001643 00000 n
+0000001870 00000 n
+0000002026 00000 n
+0000002208 00000 n
+0000002448 00000 n
+0000002619 00000 n
+0000002818 00000 n
+0000003040 00000 n
+0000003244 00000 n
+0000003448 00000 n
+0000003662 00000 n
+0000003886 00000 n
+0000004106 00000 n
+0000004283 00000 n
+0000004479 00000 n
+0000004708 00000 n
+0000004905 00000 n
+0000005108 00000 n
+0000005306 00000 n
+0000005499 00000 n
+0000005711 00000 n
+0000005872 00000 n
+0000005987 00000 n
+0000009254 00000 n
+0000011767 00000 n
+0000011873 00000 n
+0000011950 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\236Y\251U\245\020\315\241\017RU\206\211\275G\177) (\236Y\251U\245\020\315\241\017RU\206\211\275G\177)] 
+
+ /Info 7 0 R
+ /Root 6 0 R
+ /Size 36 >>
+startxref
+11997
+%%EOF
