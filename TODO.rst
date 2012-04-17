@@ -1,6 +1,10 @@
 TODO
 ====
 
+* Gestion de usuarios
+
+    Es necesario tener un solo formulario de altas y registro de personas y luego asignar roles con los distintos permisos, custimizando auth
+
 * Formularios
     * Pacientes
     * Medicos
