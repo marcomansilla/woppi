@@ -38,7 +38,34 @@ Analisis
 Captura de requisitos
 ---------------------
 
+Encuesta:
+---------
 
+1. Que Rol cumple en esta empresa?
+    Soy el jefe de ginecologia.
+
+2. Cual es el nivel de concurrencia diario que tiene la clinica?
+    En general es muy alto, en numeros generales estamos hablando de un aproximado de 700 personas a 800 personas en promedio, hay dias en las que se superan ampliamente las 1500 personas.
+
+3. Cual es el problema puntual que tiene la organizacion?
+    Hay muchos, todos tienen que ver con la gente que se encuentra en la clinica y el tiempo que les toma hacer consultas sencillas o pedir estudios terminados.
+
+4. Actualmente de que manera esta administrada su organizacion?
+    La administracion se realiza de manera manual, por medio de planillas y fichas personales, algunas consultas se realizan por medio de sistemas externos y hay una base de datos que administra la provision de medicamentos.
+
+#. Cree que una sistematizacion de la gestion de informacion de su empresa ayudaria a tener un mejor una mejor orgazacion y control?
+    Si, definitivamente. Estamos conscientes del avance tecnologico y la intencion es aprovechar estas ventajas para optimizar nuestra forma de trabajo.
+
+#. Que factores limitan a la instroduccion de nuevas tecnologias a su empresa?
+    Nos resulta limitante la falta de conocimiento del personal, lo cual con el incentivo apropiado podriamos superar, y la falta de infraestructura en cuanto a lo que podria requerir un sistema administrativo.
+
+#. Que es lo que espera de nuestro sistema?
+    A corto plazo esperamos que la concurrencia de pacientes por gestion de turnos o consultas irrelevantes sea minima, dado que el sistema debera ocuparse de eso, que la informacion requerida por medicos como historias clinicas y resultados de laboratorio esten disponibles de manera rapida y fiable.
+
+#. Su personal esta capacitado en informatica?, de no ser asi, estarian dispuestos ser capacitados por nuestra empresa?
+    Desconosco el nivel de conocimiento individual que puedan tener, pero estoy al tanto de que todos tienen conocimientos de informatica basica, navegacion por internet y ofimatica.
+
+    Vamos a realizar un sondeo para ver el nivel de conocimiento individual y la predisposicion que hay por parte de quienes requieran ser capacitados para poder operar el sistema venidero.
 
 Estudio de factibilidad o viabilidad tecnica
 --------------------------------------------
@@ -186,8 +213,10 @@ Requisitos No Funcionales
 
 * Poder acceder desde distintos dispositivos (pc, tablet, notebook, smartphone, etc.), y desde distintos sistemas operativos (MS Windows*, GNU/Linux, MacOS, BSD, etc.)
 
+
+==================================
 Modelado de requisitos funcionales
-----------------------------------
+==================================
 
 Identificacion de actores
 -------------------------
@@ -198,8 +227,9 @@ Historial de usuario
 Casos de prueba
 ---------------
 
+==================================
 Modelado de requisitos Funcionales
-----------------------------------
+==================================
 
 Tarjetas de tarea
 -----------------
