@@ -221,11 +221,75 @@ Modelado de requisitos funcionales
 Identificacion de actores
 -------------------------
 
+* Medico
+    Se encarga de dar realizar y confirmar los turnos de consulta, historias clinicas y solicitar resultados de estudios para su posterior evaluacion.
+
+* Paciente
+    Solicita turnos de consulta, se realiza los estudios en laboratorio, gestiona medicamentos prescriptos.
+
+* Administrativo/Usuario de sistema
+    Toma los turnos, da alta a los pacientes, consulta turnos disponibles, cancela turnos, gestiona informacion de laboratorio.
+
+* Administrador de sistemas
+    Quien se encarga de gestiones globales, de asignar nuevos roles a medicos, usuarios de sistema y pacientes de ser requerido.
+
+* Soporte tecnico
+    Personal que se ocupa de tareas de mantenimiento o soporte en caso de fallas generales relacionadas con hardware, estos deben ser guiados por el administrador en caso de fallas de software, dado que es quien mejor conoce la estructura y funcionamiento del sistema.
+
 Historial de usuario
 --------------------
 
++---------------------------------------------------+------------------+
+|                                                   | Historia #:      |
+| ALTA DE PACIENTES                                 | 1                |
++=======================+==============+============+==================+
+| TEST DE ACEPTACION    | Prioridad:   | Riesgo:    | Tiempo estimado: |
+|                       |              |            |                  |
++-----------------------+--------------+------------+------------------+
+| **Descripcion**                                                      |
+|                                                                      |
+|   El formulario de alta de pacientes , se encuentra en la seccion de |
+|   altas del sitio web, una vez registrado debera autenticarse en el  |
+|   formulario de acceso, entonces podra consultar sus turnos, historia|
+|   clinica, solicitar turnos nuevos, etc.                             |
++---------------------------------------------------+------------------+
+
 Casos de prueba
 ---------------
+
++----------------------------------------------------------------------+
+|                                                                      |
+|                                                                      |
++=======================+==============================================+
+|                       |                                              |
+|                       |                                              |
++-----------------------+----------------------------------------------+
+|                                                                      |
+|                                                                      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|                                                                      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|                                                                      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|                                                                      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|                                                                      |
+|                                                                      |
++----------------------------------------------------------------------+
+
+
+
+
+
+
 
 ==================================
 Modelado de requisitos Funcionales

@@ -27,12 +27,12 @@ endobj
 % 'Page1': class PDFPage 
 4 0 obj
 % Page dictionary
-<< /Contents 34 0 R
+<< /Contents 35 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -46,12 +46,12 @@ endobj
 % 'Page2': class PDFPage 
 5 0 obj
 % Page dictionary
-<< /Contents 35 0 R
+<< /Contents 36 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -65,12 +65,12 @@ endobj
 % 'Page3': class PDFPage 
 6 0 obj
 % Page dictionary
-<< /Contents 36 0 R
+<< /Contents 37 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -84,12 +84,12 @@ endobj
 % 'Page4': class PDFPage 
 7 0 obj
 % Page dictionary
-<< /Contents 37 0 R
+<< /Contents 38 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -100,310 +100,330 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R8': class PDFCatalog 
+% 'Page5': class PDFPage 
 8 0 obj
+% Page dictionary
+<< /Contents 39 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 34 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R9': class PDFCatalog 
+9 0 obj
 % Document Root
-<< /Outlines 10 0 R
- /PageLabels 38 0 R
+<< /Outlines 11 0 R
+ /PageLabels 40 0 R
  /PageMode /UseNone
- /Pages 33 0 R
+ /Pages 34 0 R
  /Type /Catalog >>
 endobj
-% 'R9': class PDFInfo 
-9 0 obj
+% 'R10': class PDFInfo 
+10 0 obj
 << /Author ()
- /CreationDate (D:20120418132022+03'00')
+ /CreationDate (D:20120418151627+03'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-% 'R10': class PDFOutlines 
-10 0 obj
+% 'R11': class PDFOutlines 
+11 0 obj
 << /Count 26
- /First 11 0 R
- /Last 31 0 R
+ /First 12 0 R
+ /Last 32 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-11 0 obj
+12 0 obj
 << /Count 1
  /Dest [ 4 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /First 12 0 R
- /Last 12 0 R
- /Next 13 0 R
- /Parent 10 0 R
+ /First 13 0 R
+ /Last 13 0 R
+ /Next 14 0 R
+ /Parent 11 0 R
  /Title (Descripcion del proyecto) >>
 endobj
 % 'Outline.23.0': class OutlineEntryObject 
-12 0 obj
+13 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  732.0236
  0 ]
- /Parent 11 0 R
+ /Parent 12 0 R
  /Title (Presentacion) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-13 0 obj
+14 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  498.0236
  0 ]
- /Next 14 0 R
- /Parent 10 0 R
- /Prev 11 0 R
+ /Next 15 0 R
+ /Parent 11 0 R
+ /Prev 12 0 R
  /Title (Objetivos) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-14 0 obj
+15 0 obj
 << /Count 10
  /Dest [ 4 0 R
  /XYZ
  62.69291
  375.0236
  0 ]
- /First 15 0 R
- /Last 24 0 R
- /Next 25 0 R
- /Parent 10 0 R
- /Prev 13 0 R
+ /First 16 0 R
+ /Last 25 0 R
+ /Next 26 0 R
+ /Parent 11 0 R
+ /Prev 14 0 R
  /Title (Documentacion tecnica) >>
 endobj
 % 'Outline.24.0': class OutlineEntryObject 
-15 0 obj
+16 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  342.0236
  0 ]
- /Next 16 0 R
- /Parent 14 0 R
+ /Next 17 0 R
+ /Parent 15 0 R
  /Title (Analisis) >>
 endobj
 % 'Outline.24.1': class OutlineEntryObject 
-16 0 obj
+17 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  312.0236
  0 ]
- /Next 17 0 R
- /Parent 14 0 R
- /Prev 15 0 R
+ /Next 18 0 R
+ /Parent 15 0 R
+ /Prev 16 0 R
  /Title (Captura de requisitos) >>
 endobj
 % 'Outline.24.2': class OutlineEntryObject 
-17 0 obj
+18 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  282.0236
  0 ]
- /Next 18 0 R
- /Parent 14 0 R
- /Prev 16 0 R
+ /Next 19 0 R
+ /Parent 15 0 R
+ /Prev 17 0 R
  /Title (Encuesta:) >>
 endobj
 % 'Outline.24.3': class OutlineEntryObject 
-18 0 obj
+19 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  450.0236
  0 ]
- /Next 19 0 R
- /Parent 14 0 R
- /Prev 17 0 R
+ /Next 20 0 R
+ /Parent 15 0 R
+ /Prev 18 0 R
  /Title (Estudio de factibilidad o viabilidad tecnica) >>
 endobj
 % 'Outline.24.4': class OutlineEntryObject 
-19 0 obj
+20 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  420.0236
  0 ]
- /Next 20 0 R
- /Parent 14 0 R
- /Prev 18 0 R
+ /Next 21 0 R
+ /Parent 15 0 R
+ /Prev 19 0 R
  /Title (Requerimientos de Hardware) >>
 endobj
 % 'Outline.24.5': class OutlineEntryObject 
-20 0 obj
+21 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  174.0236
  0 ]
- /Next 21 0 R
- /Parent 14 0 R
- /Prev 19 0 R
+ /Next 22 0 R
+ /Parent 15 0 R
+ /Prev 20 0 R
  /Title (Requerimientos de Software) >>
 endobj
 % 'Outline.24.6': class OutlineEntryObject 
-21 0 obj
+22 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  597.0236
  0 ]
- /Next 22 0 R
- /Parent 14 0 R
- /Prev 20 0 R
+ /Next 23 0 R
+ /Parent 15 0 R
+ /Prev 21 0 R
  /Title (Requerimientos de Telecomunicaciones) >>
 endobj
 % 'Outline.24.7': class OutlineEntryObject 
-22 0 obj
+23 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  465.0236
  0 ]
- /Next 23 0 R
- /Parent 14 0 R
- /Prev 21 0 R
+ /Next 24 0 R
+ /Parent 15 0 R
+ /Prev 22 0 R
  /Title (Estudio de factibilidad o viabilidad operativa) >>
 endobj
 % 'Outline.24.8': class OutlineEntryObject 
-23 0 obj
+24 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  357.0236
  0 ]
- /Next 24 0 R
- /Parent 14 0 R
- /Prev 22 0 R
+ /Next 25 0 R
+ /Parent 15 0 R
+ /Prev 23 0 R
  /Title (Estudio de factibilidad o viabilidad legal) >>
 endobj
 % 'Outline.24.9': class OutlineEntryObject 
-24 0 obj
+25 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  243.0236
  0 ]
- /Parent 14 0 R
- /Prev 23 0 R
+ /Parent 15 0 R
+ /Prev 24 0 R
  /Title (Detalle de costos) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-25 0 obj
+26 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
  681.0236
  0 ]
- /Next 26 0 R
- /Parent 10 0 R
- /Prev 14 0 R
+ /Next 27 0 R
+ /Parent 11 0 R
+ /Prev 15 0 R
  /Title (Requisitos Funcionales) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-26 0 obj
+27 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
  345.0236
  0 ]
- /Next 27 0 R
- /Parent 10 0 R
- /Prev 25 0 R
+ /Next 28 0 R
+ /Parent 11 0 R
+ /Prev 26 0 R
  /Title (Requisitos No Funcionales) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-27 0 obj
+28 0 obj
 << /Count 3
  /Dest [ 7 0 R
  /XYZ
  62.69291
  258.0236
  0 ]
- /First 28 0 R
- /Last 30 0 R
- /Next 31 0 R
- /Parent 10 0 R
- /Prev 26 0 R
+ /First 29 0 R
+ /Last 31 0 R
+ /Next 32 0 R
+ /Parent 11 0 R
+ /Prev 27 0 R
  /Title (Modelado de requisitos funcionales) >>
 endobj
 % 'Outline.25.0': class OutlineEntryObject 
-28 0 obj
+29 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
  225.0236
  0 ]
- /Next 29 0 R
- /Parent 27 0 R
+ /Next 30 0 R
+ /Parent 28 0 R
  /Title (Identificacion de actores) >>
 endobj
 % 'Outline.25.1': class OutlineEntryObject 
-29 0 obj
-<< /Dest [ 7 0 R
+30 0 obj
+<< /Dest [ 8 0 R
  /XYZ
  62.69291
- 195.0236
+ 624.0236
  0 ]
- /Next 30 0 R
- /Parent 27 0 R
- /Prev 28 0 R
+ /Next 31 0 R
+ /Parent 28 0 R
+ /Prev 29 0 R
  /Title (Historial de usuario) >>
 endobj
 % 'Outline.25.2': class OutlineEntryObject 
-30 0 obj
-<< /Dest [ 7 0 R
+31 0 obj
+<< /Dest [ 8 0 R
  /XYZ
  62.69291
- 165.0236
+ 486.0236
  0 ]
- /Parent 27 0 R
- /Prev 29 0 R
+ /Parent 28 0 R
+ /Prev 30 0 R
  /Title (Casos de prueba) >>
 endobj
 % 'Outline.6': class OutlineEntryObject 
-31 0 obj
+32 0 obj
 << /Count 1
- /Dest [ 7 0 R
+ /Dest [ 8 0 R
  /XYZ
  62.69291
- 135.0236
+ 402.0236
  0 ]
- /First 32 0 R
- /Last 32 0 R
- /Parent 10 0 R
- /Prev 27 0 R
+ /First 33 0 R
+ /Last 33 0 R
+ /Parent 11 0 R
+ /Prev 28 0 R
  /Title (Modelado de requisitos Funcionales) >>
 endobj
 % 'Outline.26.0': class OutlineEntryObject 
-32 0 obj
-<< /Dest [ 7 0 R
+33 0 obj
+<< /Dest [ 8 0 R
  /XYZ
  62.69291
- 102.0236
+ 369.0236
  0 ]
- /Parent 31 0 R
+ /Parent 32 0 R
  /Title (Tarjetas de tarea) >>
 endobj
-% 'R33': class PDFPages 
-33 0 obj
+% 'R34': class PDFPages 
+34 0 obj
 % page tree
-<< /Count 4
+<< /Count 5
  /Kids [ 4 0 R
  5 0 R
  6 0 R
- 7 0 R ]
+ 7 0 R
+ 8 0 R ]
  /Type /Pages >>
 endobj
-% 'R34': class PDFStream 
-34 0 obj
+% 'R35': class PDFStream 
+35 0 obj
 % page stream
 << /Length 6961 >>
 stream
@@ -803,8 +823,8 @@ Q
  
 endstream
 endobj
-% 'R35': class PDFStream 
-35 0 obj
+% 'R36': class PDFStream 
+36 0 obj
 % page stream
 << /Length 9183 >>
 stream
@@ -1280,8 +1300,8 @@ Q
  
 endstream
 endobj
-% 'R36': class PDFStream 
-36 0 obj
+% 'R37': class PDFStream 
+37 0 obj
 % page stream
 << /Length 9182 >>
 stream
@@ -1767,10 +1787,10 @@ Q
  
 endstream
 endobj
-% 'R37': class PDFStream 
-37 0 obj
+% 'R38': class PDFStream 
+38 0 obj
 % page stream
-<< /Length 8500 >>
+<< /Length 9681 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2342,25 +2362,401 @@ BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Identificacion de actores) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 177.0236 cm
+1 0 0 1 62.69291 195.0236 cm
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+Q
+q
+1 0 0 1 62.69291 156.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Medico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.427126 Tw (Se encarga de dar realizar y confirmar los turnos de consulta, historias clinicas y solicitar) Tj T* 0 Tw (resultados de estudios para su posterior evaluacion.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Paciente) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.832706 Tw (Solicita turnos de consulta, se realiza los estudios en laboratorio, gestiona medicamentos) Tj T* 0 Tw (prescriptos.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+Q
+q
+1 0 0 1 62.69291 93.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Administrativo/Usuario de sistema) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R39': class PDFStream 
+39 0 obj
+% page stream
+<< /Length 5315 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 738.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 14 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .770751 Tw (Toma los turnos, da alta a los pacientes, consulta turnos disponibles, cancela turnos, gestiona) Tj T* 0 Tw (informacion de laboratorio.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Administrador de sistemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.395366 Tw (Quien se encarga de gestiones globales, de asignar nuevos roles a medicos, usuarios de) Tj T* 0 Tw (sistema y pacientes de ser requerido.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Soporte tecnico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.064269 Tw (Personal que se ocupa de tareas de mantenimiento o soporte en caso de fallas generales) Tj T* 0 Tw .676412 Tw (relacionadas con hardware, estos deben ser guiados por el administrador en caso de fallas de) Tj T* 0 Tw (software, dado que es quien mejor conoce la estructura y funcionamiento del sistema.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Historial de usuario) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 147.0236 cm
+1 0 0 1 62.69291 594.0236 cm
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+1 1 1 rg
+n 0 96 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 78 469.8898 -18 re f*
+1 1 1 rg
+n 0 60 469.8898 -60 re f*
+.960784 .960784 .862745 rg
+n 0 96 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 331.6507 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 115.2554 0 Td (ALTA DE PACIENTES) Tj T* -115.2554 0 Td ET
+Q
+Q
+q
+1 0 0 1 349.6507 81 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 114.239 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 30.44452 0 Td (Historia #: 1) Tj T* -30.44452 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TEST DE ACEPTACION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prioridad:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 265.4914 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Riesgo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tiempo estimado:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Descripcion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+Q
+q
+1 0 0 1 6 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.445542 Tw (El formulario de alta de pacientes , se encuentra en la seccion de altas del sitio web, una vez) Tj T* 0 Tw 1.05748 Tw (registrado debera autenticarse en el formulario de acceso, entonces podra consultar sus turnos,) Tj T* 0 Tw (historia clinica, solicitar turnos nuevos, etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 78 m 469.8898 78 l S
+n 0 60 m 469.8898 60 l S
+n 161.3054 60 m 161.3054 78 l S
+n 259.4914 60 m 259.4914 78 l S
+n 343.6507 60 m 343.6507 96 l S
+n 0 96 m 469.8898 96 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 96 l S
+n 469.8898 0 m 469.8898 96 l S
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+Q
+q
+1 0 0 1 62.69291 468.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Casos de prueba) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 114.0236 cm
+1 0 0 1 62.69291 456.0236 cm
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+1 1 1 rg
+n 0 42 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -6 re f*
+1 1 1 rg
+n 0 30 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 24 469.8898 -6 re f*
+1 1 1 rg
+n 0 18 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 12 469.8898 -6 re f*
+1 1 1 rg
+n 0 6 469.8898 -6 re f*
+.960784 .960784 .862745 rg
+n 0 42 469.8898 -6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+0 0 0 rg
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 469.8898 36 l S
+n 0 30 m 469.8898 30 l S
+n 0 24 m 469.8898 24 l S
+n 0 18 m 469.8898 18 l S
+n 0 12 m 469.8898 12 l S
+n 0 6 m 469.8898 6 l S
+n 156.6299 30 m 156.6299 36 l S
+n 0 42 m 469.8898 42 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 42 l S
+n 469.8898 0 m 469.8898 42 l S
+Q
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modelado de requisitos Funcionales) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 84.02362 cm
+1 0 0 1 62.69291 351.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Tarjetas de tarea) Tj T* ET
 Q
@@ -2368,44 +2764,52 @@ Q
  
 endstream
 endobj
-% 'R38': class PDFPageLabels 
-38 0 obj
+% 'R40': class PDFPageLabels 
+40 0 obj
 % Document Root
 << /Nums [ 0
- 39 0 R
- 1
- 40 0 R
- 2
  41 0 R
+ 1
+ 42 0 R
+ 2
+ 43 0 R
  3
- 42 0 R ] >>
-endobj
-% 'R39': class PDFPageLabel 
-39 0 obj
-% None
-<< /S /D
- /St 1 >>
-endobj
-% 'R40': class PDFPageLabel 
-40 0 obj
-% None
-<< /S /D
- /St 2 >>
+ 44 0 R
+ 4
+ 45 0 R ] >>
 endobj
 % 'R41': class PDFPageLabel 
 41 0 obj
 % None
 << /S /D
- /St 3 >>
+ /St 1 >>
 endobj
 % 'R42': class PDFPageLabel 
 42 0 obj
 % None
 << /S /D
+ /St 2 >>
+endobj
+% 'R43': class PDFPageLabel 
+43 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R44': class PDFPageLabel 
+44 0 obj
+% None
+<< /S /D
  /St 4 >>
 endobj
+% 'R45': class PDFPageLabel 
+45 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
 xref
-0 43
+0 46
 0000000000 65535 f
 0000000113 00000 n
 0000000221 00000 n
@@ -2415,48 +2819,51 @@ xref
 0000001117 00000 n
 0000001396 00000 n
 0000001675 00000 n
-0000001832 00000 n
-0000002079 00000 n
-0000002205 00000 n
-0000002434 00000 n
-0000002591 00000 n
-0000002775 00000 n
-0000003017 00000 n
-0000003188 00000 n
-0000003387 00000 n
-0000003574 00000 n
-0000003796 00000 n
-0000004000 00000 n
-0000004204 00000 n
-0000004418 00000 n
-0000004642 00000 n
-0000004862 00000 n
-0000005039 00000 n
-0000005236 00000 n
-0000005436 00000 n
-0000005690 00000 n
-0000005878 00000 n
-0000006076 00000 n
-0000006251 00000 n
-0000006490 00000 n
-0000006636 00000 n
-0000006767 00000 n
-0000013827 00000 n
-0000023109 00000 n
-0000032390 00000 n
-0000040993 00000 n
-0000041125 00000 n
-0000041202 00000 n
-0000041279 00000 n
-0000041356 00000 n
+0000001954 00000 n
+0000002112 00000 n
+0000002360 00000 n
+0000002486 00000 n
+0000002715 00000 n
+0000002872 00000 n
+0000003056 00000 n
+0000003298 00000 n
+0000003469 00000 n
+0000003668 00000 n
+0000003855 00000 n
+0000004077 00000 n
+0000004281 00000 n
+0000004485 00000 n
+0000004699 00000 n
+0000004923 00000 n
+0000005143 00000 n
+0000005320 00000 n
+0000005517 00000 n
+0000005717 00000 n
+0000005971 00000 n
+0000006159 00000 n
+0000006357 00000 n
+0000006532 00000 n
+0000006771 00000 n
+0000006917 00000 n
+0000007056 00000 n
+0000014116 00000 n
+0000023398 00000 n
+0000032679 00000 n
+0000042459 00000 n
+0000047877 00000 n
+0000048022 00000 n
+0000048099 00000 n
+0000048176 00000 n
+0000048253 00000 n
+0000048330 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\377o\013\257\324|;q\2212\266\037\350wD\276) (\377o\013\257\324|;q\2212\266\037\350wD\276)] 
+ [({\024\021^\303\304"\206x+pA\265\263\002]) ({\024\021^\303\304"\206x+pA\265\263\002])] 
 
- /Info 9 0 R
- /Root 8 0 R
- /Size 43 >>
+ /Info 10 0 R
+ /Root 9 0 R
+ /Size 46 >>
 startxref
-41403
+48377
 %%EOF
