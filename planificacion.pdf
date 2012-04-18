@@ -27,12 +27,12 @@ endobj
 % 'Page1': class PDFPage 
 4 0 obj
 % Page dictionary
-<< /Contents 36 0 R
+<< /Contents 37 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 35 0 R
+ /Parent 36 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -46,12 +46,12 @@ endobj
 % 'Page2': class PDFPage 
 5 0 obj
 % Page dictionary
-<< /Contents 37 0 R
+<< /Contents 38 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 35 0 R
+ /Parent 36 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -65,12 +65,12 @@ endobj
 % 'Page3': class PDFPage 
 6 0 obj
 % Page dictionary
-<< /Contents 38 0 R
+<< /Contents 39 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 35 0 R
+ /Parent 36 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -84,12 +84,12 @@ endobj
 % 'Page4': class PDFPage 
 7 0 obj
 % Page dictionary
-<< /Contents 39 0 R
+<< /Contents 40 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 35 0 R
+ /Parent 36 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -103,12 +103,12 @@ endobj
 % 'Page5': class PDFPage 
 8 0 obj
 % Page dictionary
-<< /Contents 40 0 R
+<< /Contents 41 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 35 0 R
+ /Parent 36 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -122,12 +122,12 @@ endobj
 % 'Page6': class PDFPage 
 9 0 obj
 % Page dictionary
-<< /Contents 41 0 R
+<< /Contents 42 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 35 0 R
+ /Parent 36 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -138,312 +138,332 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R10': class PDFCatalog 
+% 'Page7': class PDFPage 
 10 0 obj
+% Page dictionary
+<< /Contents 43 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R11': class PDFCatalog 
+11 0 obj
 % Document Root
-<< /Outlines 12 0 R
- /PageLabels 42 0 R
+<< /Outlines 13 0 R
+ /PageLabels 44 0 R
  /PageMode /UseNone
- /Pages 35 0 R
+ /Pages 36 0 R
  /Type /Catalog >>
 endobj
-% 'R11': class PDFInfo 
-11 0 obj
+% 'R12': class PDFInfo 
+12 0 obj
 << /Author ()
- /CreationDate (D:20120418170049+03'00')
+ /CreationDate (D:20120418173205+03'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-% 'R12': class PDFOutlines 
-12 0 obj
+% 'R13': class PDFOutlines 
+13 0 obj
 << /Count 26
- /First 13 0 R
- /Last 33 0 R
+ /First 14 0 R
+ /Last 34 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-13 0 obj
+14 0 obj
 << /Count 1
  /Dest [ 4 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /First 14 0 R
- /Last 14 0 R
- /Next 15 0 R
- /Parent 12 0 R
+ /First 15 0 R
+ /Last 15 0 R
+ /Next 16 0 R
+ /Parent 13 0 R
  /Title (Descripcion del proyecto) >>
 endobj
 % 'Outline.23.0': class OutlineEntryObject 
-14 0 obj
+15 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  732.0236
  0 ]
- /Parent 13 0 R
+ /Parent 14 0 R
  /Title (Presentacion) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-15 0 obj
+16 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  498.0236
  0 ]
- /Next 16 0 R
- /Parent 12 0 R
- /Prev 13 0 R
+ /Next 17 0 R
+ /Parent 13 0 R
+ /Prev 14 0 R
  /Title (Objetivos) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-16 0 obj
+17 0 obj
 << /Count 10
  /Dest [ 4 0 R
  /XYZ
  62.69291
  375.0236
  0 ]
- /First 17 0 R
- /Last 26 0 R
- /Next 27 0 R
- /Parent 12 0 R
- /Prev 15 0 R
+ /First 18 0 R
+ /Last 27 0 R
+ /Next 28 0 R
+ /Parent 13 0 R
+ /Prev 16 0 R
  /Title (Documentacion tecnica) >>
 endobj
 % 'Outline.24.0': class OutlineEntryObject 
-17 0 obj
+18 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  342.0236
  0 ]
- /Next 18 0 R
- /Parent 16 0 R
+ /Next 19 0 R
+ /Parent 17 0 R
  /Title (Analisis) >>
 endobj
 % 'Outline.24.1': class OutlineEntryObject 
-18 0 obj
+19 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  312.0236
  0 ]
- /Next 19 0 R
- /Parent 16 0 R
- /Prev 17 0 R
+ /Next 20 0 R
+ /Parent 17 0 R
+ /Prev 18 0 R
  /Title (Captura de requisitos) >>
 endobj
 % 'Outline.24.2': class OutlineEntryObject 
-19 0 obj
+20 0 obj
 << /Dest [ 4 0 R
  /XYZ
  62.69291
  282.0236
  0 ]
- /Next 20 0 R
- /Parent 16 0 R
- /Prev 18 0 R
+ /Next 21 0 R
+ /Parent 17 0 R
+ /Prev 19 0 R
  /Title (Encuesta:) >>
 endobj
 % 'Outline.24.3': class OutlineEntryObject 
-20 0 obj
+21 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  450.0236
  0 ]
- /Next 21 0 R
- /Parent 16 0 R
- /Prev 19 0 R
+ /Next 22 0 R
+ /Parent 17 0 R
+ /Prev 20 0 R
  /Title (Estudio de factibilidad o viabilidad tecnica) >>
 endobj
 % 'Outline.24.4': class OutlineEntryObject 
-21 0 obj
+22 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  420.0236
  0 ]
- /Next 22 0 R
- /Parent 16 0 R
- /Prev 20 0 R
+ /Next 23 0 R
+ /Parent 17 0 R
+ /Prev 21 0 R
  /Title (Requerimientos de Hardware) >>
 endobj
 % 'Outline.24.5': class OutlineEntryObject 
-22 0 obj
+23 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  174.0236
  0 ]
- /Next 23 0 R
- /Parent 16 0 R
- /Prev 21 0 R
+ /Next 24 0 R
+ /Parent 17 0 R
+ /Prev 22 0 R
  /Title (Requerimientos de Software) >>
 endobj
 % 'Outline.24.6': class OutlineEntryObject 
-23 0 obj
+24 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  597.0236
  0 ]
- /Next 24 0 R
- /Parent 16 0 R
- /Prev 22 0 R
+ /Next 25 0 R
+ /Parent 17 0 R
+ /Prev 23 0 R
  /Title (Requerimientos de Telecomunicaciones) >>
 endobj
 % 'Outline.24.7': class OutlineEntryObject 
-24 0 obj
+25 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  465.0236
  0 ]
- /Next 25 0 R
- /Parent 16 0 R
- /Prev 23 0 R
+ /Next 26 0 R
+ /Parent 17 0 R
+ /Prev 24 0 R
  /Title (Estudio de factibilidad o viabilidad operativa) >>
 endobj
 % 'Outline.24.8': class OutlineEntryObject 
-25 0 obj
+26 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  357.0236
  0 ]
- /Next 26 0 R
- /Parent 16 0 R
- /Prev 24 0 R
+ /Next 27 0 R
+ /Parent 17 0 R
+ /Prev 25 0 R
  /Title (Estudio de factibilidad o viabilidad legal) >>
 endobj
 % 'Outline.24.9': class OutlineEntryObject 
-26 0 obj
+27 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  243.0236
  0 ]
- /Parent 16 0 R
- /Prev 25 0 R
+ /Parent 17 0 R
+ /Prev 26 0 R
  /Title (Detalle de costos) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-27 0 obj
-<< /Dest [ 7 0 R
- /XYZ
- 62.69291
- 681.0236
- 0 ]
- /Next 28 0 R
- /Parent 12 0 R
- /Prev 16 0 R
- /Title (Requisitos Funcionales) >>
-endobj
-% 'Outline.4': class OutlineEntryObject 
 28 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
- 345.0236
+ 567.0236
  0 ]
  /Next 29 0 R
- /Parent 12 0 R
- /Prev 27 0 R
+ /Parent 13 0 R
+ /Prev 17 0 R
+ /Title (Requisitos Funcionales) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 231.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 13 0 R
+ /Prev 28 0 R
  /Title (Requisitos No Funcionales) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-29 0 obj
+30 0 obj
 << /Count 3
  /Dest [ 7 0 R
  /XYZ
  62.69291
- 258.0236
+ 144.0236
  0 ]
- /First 30 0 R
- /Last 32 0 R
- /Next 33 0 R
- /Parent 12 0 R
- /Prev 28 0 R
+ /First 31 0 R
+ /Last 33 0 R
+ /Next 34 0 R
+ /Parent 13 0 R
+ /Prev 29 0 R
  /Title (Modelado de requisitos funcionales) >>
 endobj
 % 'Outline.25.0': class OutlineEntryObject 
-30 0 obj
+31 0 obj
 << /Dest [ 7 0 R
  /XYZ
  62.69291
- 225.0236
+ 111.0236
  0 ]
- /Next 31 0 R
- /Parent 29 0 R
+ /Next 32 0 R
+ /Parent 30 0 R
  /Title (Identificacion de actores) >>
 endobj
 % 'Outline.25.1': class OutlineEntryObject 
-31 0 obj
+32 0 obj
 << /Dest [ 8 0 R
  /XYZ
  62.69291
- 624.0236
+ 522.0236
  0 ]
- /Next 32 0 R
- /Parent 29 0 R
- /Prev 30 0 R
+ /Next 33 0 R
+ /Parent 30 0 R
+ /Prev 31 0 R
  /Title (Historial de usuario) >>
 endobj
 % 'Outline.25.2': class OutlineEntryObject 
-32 0 obj
+33 0 obj
 << /Dest [ 9 0 R
  /XYZ
  62.69291
- 765.0236
+ 627.0236
  0 ]
- /Parent 29 0 R
- /Prev 31 0 R
+ /Parent 30 0 R
+ /Prev 32 0 R
  /Title (Casos de prueba) >>
 endobj
 % 'Outline.6': class OutlineEntryObject 
-33 0 obj
+34 0 obj
 << /Count 1
- /Dest [ 9 0 R
+ /Dest [ 10 0 R
  /XYZ
  62.69291
- 681.0236
+ 582.0236
  0 ]
- /First 34 0 R
- /Last 34 0 R
- /Parent 12 0 R
- /Prev 29 0 R
+ /First 35 0 R
+ /Last 35 0 R
+ /Parent 13 0 R
+ /Prev 30 0 R
  /Title (Modelado de requisitos Funcionales) >>
 endobj
 % 'Outline.26.0': class OutlineEntryObject 
-34 0 obj
-<< /Dest [ 9 0 R
+35 0 obj
+<< /Dest [ 10 0 R
  /XYZ
  62.69291
- 648.0236
+ 549.0236
  0 ]
- /Parent 33 0 R
+ /Parent 34 0 R
  /Title (Tarjetas de tarea) >>
 endobj
-% 'R35': class PDFPages 
-35 0 obj
+% 'R36': class PDFPages 
+36 0 obj
 % page tree
-<< /Count 6
+<< /Count 7
  /Kids [ 4 0 R
  5 0 R
  6 0 R
  7 0 R
  8 0 R
- 9 0 R ]
+ 9 0 R
+ 10 0 R ]
  /Type /Pages >>
 endobj
-% 'R36': class PDFStream 
-36 0 obj
+% 'R37': class PDFStream 
+37 0 obj
 % page stream
 << /Length 6961 >>
 stream
@@ -843,8 +863,8 @@ Q
  
 endstream
 endobj
-% 'R37': class PDFStream 
-37 0 obj
+% 'R38': class PDFStream 
+38 0 obj
 % page stream
 << /Length 9183 >>
 stream
@@ -1320,8 +1340,8 @@ Q
  
 endstream
 endobj
-% 'R38': class PDFStream 
-38 0 obj
+% 'R39': class PDFStream 
+39 0 obj
 % page stream
 << /Length 9182 >>
 stream
@@ -1807,10 +1827,10 @@ Q
  
 endstream
 endobj
-% 'R39': class PDFStream 
-39 0 obj
+% 'R40': class PDFStream 
+40 0 obj
 % page stream
-<< /Length 9681 >>
+<< /Length 10125 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1872,19 +1892,142 @@ q
 1 0 0 1 62.69291 693.0236 cm
 Q
 q
-1 0 0 1 62.69291 660.0236 cm
+1 0 0 1 62.69291 687.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -18 re f*
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 108 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 96.95995 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.58497 0 Td (A\361o) Tj T* -39.58497 0 Td ET
+Q
+Q
+q
+1 0 0 1 114.9599 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 103.7699 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 38.82497 0 Td (Costo) Tj T* -38.82497 0 Td ET
+Q
+Q
+q
+1 0 0 1 230.7299 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 117.3899 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 38.12997 0 Td (Beneficio) Tj T* -38.12997 0 Td ET
+Q
+Q
+q
+1 0 0 1 360.1198 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 103.7699 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 20.19997 0 Td (Beneficio neto) Tj T* -20.19997 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 108.9599 0 m 108.9599 108 l S
+n 224.7299 0 m 224.7299 108 l S
+n 354.1198 0 m 354.1198 108 l S
+n 0 108 m 469.8898 108 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requisitos Funcionales) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 534.0236 cm
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 534.0236 cm
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
+1 0 0 1 62.69291 522.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1905,10 +2048,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 630.0236 cm
+1 0 0 1 62.69291 516.0236 cm
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 62.69291 447.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2015,10 +2158,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
+1 0 0 1 62.69291 441.0236 cm
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 354.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2149,10 +2292,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 462.0236 cm
+1 0 0 1 62.69291 348.0236 cm
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 243.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2307,22 +2450,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 243.0236 cm
 Q
 q
-1 0 0 1 62.69291 324.0236 cm
+1 0 0 1 62.69291 210.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requisitos No Funcionales) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 312.0236 cm
+1 0 0 1 62.69291 198.0236 cm
 Q
 q
-1 0 0 1 62.69291 312.0236 cm
+1 0 0 1 62.69291 198.0236 cm
 Q
 q
-1 0 0 1 62.69291 300.0236 cm
+1 0 0 1 62.69291 186.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2343,10 +2486,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 294.0236 cm
+1 0 0 1 62.69291 180.0236 cm
 Q
 q
-1 0 0 1 62.69291 270.0236 cm
+1 0 0 1 62.69291 156.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2367,28 +2510,37 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 270.0236 cm
+1 0 0 1 62.69291 156.0236 cm
 Q
 q
-1 0 0 1 62.69291 237.0236 cm
+1 0 0 1 62.69291 123.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modelado de requisitos funcionales) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 207.0236 cm
+1 0 0 1 62.69291 93.02362 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Identificacion de actores) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 195.0236 cm
+1 0 0 1 62.69291 81.02362 cm
 Q
 q
-1 0 0 1 62.69291 195.0236 cm
+1 0 0 1 62.69291 81.02362 cm
 Q
+ 
+endstream
+endobj
+% 'R41': class PDFStream 
+41 0 obj
+% page stream
+<< /Length 10480 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 726.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2424,10 +2576,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 150.0236 cm
+1 0 0 1 62.69291 720.0236 cm
 Q
 q
-1 0 0 1 62.69291 111.0236 cm
+1 0 0 1 62.69291 681.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2463,43 +2615,26 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 105.0236 cm
+1 0 0 1 62.69291 675.0236 cm
 Q
 q
-1 0 0 1 62.69291 93.02362 cm
+1 0 0 1 62.69291 636.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 24 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
+1 0 0 1 23 24 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Administrativo/Usuario de sistema) Tj T* ET
 Q
 Q
-q
-Q
-Q
- 
-endstream
-endobj
-% 'R40': class PDFStream 
-40 0 obj
-% page stream
-<< /Length 11283 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 738.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 6 14 Tm  T* ET
 q
 1 0 0 1 23 -3 cm
 0 0 0 rg
@@ -2519,10 +2654,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 732.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2558,10 +2693,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 62.69291 585.0236 cm
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
+1 0 0 1 62.69291 534.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2597,19 +2732,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
+1 0 0 1 62.69291 534.0236 cm
 Q
 q
-1 0 0 1 62.69291 606.0236 cm
+1 0 0 1 62.69291 504.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Historial de usuario) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 492.0236 cm
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 366.0236 cm
 1 1 1 rg
 n 0 126 469.8898 -33 re f*
 .878431 .878431 .878431 rg
@@ -2742,13 +2877,13 @@ n 469.8898 0 m 469.8898 126 l S
 Q
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 366.0236 cm
 Q
 q
-1 0 0 1 62.69291 462.0236 cm
+1 0 0 1 62.69291 360.0236 cm
 Q
 q
-1 0 0 1 62.69291 336.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 1 1 1 rg
 n 0 126 469.8898 -33 re f*
 .878431 .878431 .878431 rg
@@ -2881,13 +3016,13 @@ n 469.8898 0 m 469.8898 126 l S
 Q
 Q
 q
-1 0 0 1 62.69291 336.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 Q
 q
-1 0 0 1 62.69291 330.0236 cm
+1 0 0 1 62.69291 228.0236 cm
 Q
 q
-1 0 0 1 62.69291 216.0236 cm
+1 0 0 1 62.69291 114.0236 cm
 1 1 1 rg
 n 0 114 469.8898 -33 re f*
 .878431 .878431 .878431 rg
@@ -3020,13 +3155,22 @@ n 469.8898 0 m 469.8898 114 l S
 Q
 Q
 q
-1 0 0 1 62.69291 216.0236 cm
+1 0 0 1 62.69291 114.0236 cm
 Q
 q
-1 0 0 1 62.69291 210.0236 cm
+1 0 0 1 62.69291 108.0236 cm
 Q
+ 
+endstream
+endobj
+% 'R42': class PDFStream 
+42 0 obj
+% page stream
+<< /Length 11384 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 84.02362 cm
+1 0 0 1 62.69291 639.0236 cm
 1 1 1 rg
 n 0 126 469.8898 -33 re f*
 .878431 .878431 .878431 rg
@@ -3159,34 +3303,25 @@ n 469.8898 0 m 469.8898 126 l S
 Q
 Q
 q
-1 0 0 1 62.69291 84.02362 cm
+1 0 0 1 62.69291 639.0236 cm
 Q
- 
-endstream
-endobj
-% 'R41': class PDFStream 
-41 0 obj
-% page stream
-<< /Length 1879 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Casos de prueba) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 735.0236 cm
+1 0 0 1 62.69291 597.0236 cm
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 62.69291 489.0236 cm
 1 1 1 rg
-n 0 42 469.8898 -6 re f*
+n 0 108 469.8898 -18 re f*
 .878431 .878431 .878431 rg
-n 0 36 469.8898 -6 re f*
+n 0 90 469.8898 -33 re f*
 1 1 1 rg
-n 0 30 469.8898 -6 re f*
+n 0 57 469.8898 -33 re f*
 .878431 .878431 .878431 rg
 n 0 24 469.8898 -6 re f*
 1 1 1 rg
@@ -3196,48 +3331,758 @@ n 0 12 469.8898 -6 re f*
 1 1 1 rg
 n 0 6 469.8898 -6 re f*
 .960784 .960784 .862745 rg
-n 0 42 469.8898 -6 re f*
+n 0 108 469.8898 -18 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de usuario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01 - Validacion de usuario) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prueba de usuario valido) Tj T* ET
+Q
+Q
+q
+Q
+Q
 q
 1 J
 1 j
 0 0 0 RG
 .25 w
-n 0 36 m 469.8898 36 l S
-n 0 30 m 469.8898 30 l S
+n 0 90 m 469.8898 90 l S
+n 0 57 m 469.8898 57 l S
 n 0 24 m 469.8898 24 l S
 n 0 18 m 469.8898 18 l S
 n 0 12 m 469.8898 12 l S
 n 0 6 m 469.8898 6 l S
-n 156.6299 30 m 156.6299 36 l S
-n 0 42 m 469.8898 42 l S
+n 156.6299 57 m 156.6299 90 l S
+n 0 108 m 469.8898 108 l S
 n 0 0 m 469.8898 0 l S
-n 0 0 m 0 42 l S
-n 469.8898 0 m 469.8898 42 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
 Q
 Q
 q
-1 0 0 1 62.69291 693.0236 cm
+1 0 0 1 62.69291 489.0236 cm
 Q
 q
-1 0 0 1 62.69291 660.0236 cm
+1 0 0 1 62.69291 483.0236 cm
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -33 re f*
+1 1 1 rg
+n 0 57 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 24 469.8898 -6 re f*
+1 1 1 rg
+n 0 18 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 12 469.8898 -6 re f*
+1 1 1 rg
+n 0 6 469.8898 -6 re f*
+.960784 .960784 .862745 rg
+n 0 108 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de usuario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01 - Validacion de usuario) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prueba de usuario valido) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 469.8898 90 l S
+n 0 57 m 469.8898 57 l S
+n 0 24 m 469.8898 24 l S
+n 0 18 m 469.8898 18 l S
+n 0 12 m 469.8898 12 l S
+n 0 6 m 469.8898 6 l S
+n 156.6299 57 m 156.6299 90 l S
+n 0 108 m 469.8898 108 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+Q
+q
+1 0 0 1 62.69291 369.0236 cm
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -33 re f*
+1 1 1 rg
+n 0 57 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 24 469.8898 -6 re f*
+1 1 1 rg
+n 0 18 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 12 469.8898 -6 re f*
+1 1 1 rg
+n 0 6 469.8898 -6 re f*
+.960784 .960784 .862745 rg
+n 0 108 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de usuario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01 - Validacion de usuario) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prueba de usuario valido) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 469.8898 90 l S
+n 0 57 m 469.8898 57 l S
+n 0 24 m 469.8898 24 l S
+n 0 18 m 469.8898 18 l S
+n 0 12 m 469.8898 12 l S
+n 0 6 m 469.8898 6 l S
+n 156.6299 57 m 156.6299 90 l S
+n 0 108 m 469.8898 108 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -33 re f*
+1 1 1 rg
+n 0 57 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 24 469.8898 -6 re f*
+1 1 1 rg
+n 0 18 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 12 469.8898 -6 re f*
+1 1 1 rg
+n 0 6 469.8898 -6 re f*
+.960784 .960784 .862745 rg
+n 0 108 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de usuario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01 - Validacion de usuario) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prueba de usuario valido) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 469.8898 90 l S
+n 0 57 m 469.8898 57 l S
+n 0 24 m 469.8898 24 l S
+n 0 18 m 469.8898 18 l S
+n 0 12 m 469.8898 12 l S
+n 0 6 m 469.8898 6 l S
+n 156.6299 57 m 156.6299 90 l S
+n 0 108 m 469.8898 108 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
+Q
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+Q
+q
+1 0 0 1 62.69291 90.02362 cm
+1 1 1 rg
+n 0 51 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 33 469.8898 -33 re f*
+.960784 .960784 .862745 rg
+n 0 51 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de usuario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01 - Validacion de usuario) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 33 m 469.8898 33 l S
+n 156.6299 0 m 156.6299 33 l S
+n 0 51 m 469.8898 51 l S
+n 0 0 m 0 51 l S
+n 469.8898 0 m 469.8898 51 l S
+Q
+Q
+ 
+endstream
+endobj
+% 'R43': class PDFStream 
+43 0 obj
+% page stream
+<< /Length 3706 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 708.0236 cm
+1 1 1 rg
+n 0 57 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 24 469.8898 -6 re f*
+1 1 1 rg
+n 0 18 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 12 469.8898 -6 re f*
+1 1 1 rg
+n 0 6 469.8898 -6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prueba de usuario valido) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 57 m 469.8898 57 l S
+n 0 24 m 469.8898 24 l S
+n 0 18 m 469.8898 18 l S
+n 0 12 m 469.8898 12 l S
+n 0 6 m 469.8898 6 l S
+n 0 0 m 0 57 l S
+n 469.8898 0 m 469.8898 57 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -33 re f*
+1 1 1 rg
+n 0 57 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 24 469.8898 -6 re f*
+1 1 1 rg
+n 0 18 469.8898 -6 re f*
+.878431 .878431 .878431 rg
+n 0 12 469.8898 -6 re f*
+1 1 1 rg
+n 0 6 469.8898 -6 re f*
+.960784 .960784 .862745 rg
+n 0 108 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de usuario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01 - Validacion de usuario) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prueba de usuario valido) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 469.8898 90 l S
+n 0 57 m 469.8898 57 l S
+n 0 24 m 469.8898 24 l S
+n 0 18 m 469.8898 18 l S
+n 0 12 m 469.8898 12 l S
+n 0 6 m 469.8898 6 l S
+n 156.6299 57 m 156.6299 90 l S
+n 0 108 m 469.8898 108 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modelado de requisitos Funcionales) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 630.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Tarjetas de tarea) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 618.0236 cm
+1 0 0 1 62.69291 519.0236 cm
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 1 1 1 rg
 n 0 24 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -3271,65 +4116,73 @@ n 469.8898 0 m 469.8898 24 l S
 Q
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 Q
  
 endstream
 endobj
-% 'R42': class PDFPageLabels 
-42 0 obj
+% 'R44': class PDFPageLabels 
+44 0 obj
 % Document Root
 << /Nums [ 0
- 43 0 R
- 1
- 44 0 R
- 2
  45 0 R
- 3
+ 1
  46 0 R
- 4
+ 2
  47 0 R
+ 3
+ 48 0 R
+ 4
+ 49 0 R
  5
- 48 0 R ] >>
-endobj
-% 'R43': class PDFPageLabel 
-43 0 obj
-% None
-<< /S /D
- /St 1 >>
-endobj
-% 'R44': class PDFPageLabel 
-44 0 obj
-% None
-<< /S /D
- /St 2 >>
+ 50 0 R
+ 6
+ 51 0 R ] >>
 endobj
 % 'R45': class PDFPageLabel 
 45 0 obj
 % None
 << /S /D
- /St 3 >>
+ /St 1 >>
 endobj
 % 'R46': class PDFPageLabel 
 46 0 obj
 % None
 << /S /D
- /St 4 >>
+ /St 2 >>
 endobj
 % 'R47': class PDFPageLabel 
 47 0 obj
 % None
 << /S /D
- /St 5 >>
+ /St 3 >>
 endobj
 % 'R48': class PDFPageLabel 
 48 0 obj
 % None
 << /S /D
+ /St 4 >>
+endobj
+% 'R49': class PDFPageLabel 
+49 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R50': class PDFPageLabel 
+50 0 obj
+% None
+<< /S /D
  /St 6 >>
 endobj
+% 'R51': class PDFPageLabel 
+51 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
 xref
-0 49
+0 52
 0000000000 65535 f
 0000000113 00000 n
 0000000221 00000 n
@@ -3340,53 +4193,56 @@ xref
 0000001396 00000 n
 0000001675 00000 n
 0000001954 00000 n
-0000002234 00000 n
-0000002393 00000 n
-0000002641 00000 n
-0000002767 00000 n
-0000002996 00000 n
-0000003153 00000 n
-0000003337 00000 n
-0000003579 00000 n
-0000003750 00000 n
-0000003949 00000 n
-0000004136 00000 n
-0000004358 00000 n
-0000004562 00000 n
-0000004766 00000 n
-0000004980 00000 n
-0000005204 00000 n
-0000005424 00000 n
-0000005601 00000 n
-0000005798 00000 n
-0000005998 00000 n
-0000006252 00000 n
-0000006440 00000 n
-0000006638 00000 n
-0000006813 00000 n
-0000007052 00000 n
-0000007198 00000 n
-0000007345 00000 n
-0000014405 00000 n
-0000023687 00000 n
-0000032968 00000 n
-0000042748 00000 n
-0000054131 00000 n
-0000056113 00000 n
-0000056271 00000 n
-0000056348 00000 n
-0000056425 00000 n
-0000056502 00000 n
-0000056579 00000 n
-0000056656 00000 n
+0000002233 00000 n
+0000002514 00000 n
+0000002673 00000 n
+0000002921 00000 n
+0000003047 00000 n
+0000003276 00000 n
+0000003433 00000 n
+0000003617 00000 n
+0000003859 00000 n
+0000004030 00000 n
+0000004229 00000 n
+0000004416 00000 n
+0000004638 00000 n
+0000004842 00000 n
+0000005046 00000 n
+0000005260 00000 n
+0000005484 00000 n
+0000005704 00000 n
+0000005881 00000 n
+0000006078 00000 n
+0000006278 00000 n
+0000006532 00000 n
+0000006720 00000 n
+0000006918 00000 n
+0000007093 00000 n
+0000007333 00000 n
+0000007480 00000 n
+0000007636 00000 n
+0000014696 00000 n
+0000023978 00000 n
+0000033259 00000 n
+0000043484 00000 n
+0000054064 00000 n
+0000065548 00000 n
+0000069357 00000 n
+0000069528 00000 n
+0000069605 00000 n
+0000069682 00000 n
+0000069759 00000 n
+0000069836 00000 n
+0000069913 00000 n
+0000069990 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\026\223\253\254R*R\265\0225;[\355\222\005\306) (\026\223\253\254R*R\265\0225;[\355\222\005\306)] 
+ [(\342\357;\006\2068\034b\257\342y\213\216\201\356\324) (\342\357;\006\2068\034b\257\342y\213\216\201\356\324)] 
 
- /Info 11 0 R
- /Root 10 0 R
- /Size 49 >>
+ /Info 12 0 R
+ /Root 11 0 R
+ /Size 52 >>
 startxref
-56703
+70037
 %%EOF
