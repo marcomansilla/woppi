@@ -241,10 +241,10 @@ Historial de usuario
 
 +---------------------------------------------------+------------------+
 |                                                   | Historia #:      |
-| ALTA DE PACIENTES                                 | 1                |
+| ALTA DE PACIENTES                                 |  1               |
 +=======================+==============+============+==================+
 | TEST DE ACEPTACION    | Prioridad:   | Riesgo:    | Tiempo estimado: |
-|                       |              |            |                  |
+|                       |  1           |            |                  |
 +-----------------------+--------------+------------+------------------+
 | **Descripcion**                                                      |
 |                                                                      |
@@ -252,7 +252,53 @@ Historial de usuario
 |   altas del sitio web, una vez registrado debera autenticarse en el  |
 |   formulario de acceso, entonces podra consultar sus turnos, historia|
 |   clinica, solicitar turnos nuevos, etc.                             |
++----------------------------------------------------------------------+
+
 +---------------------------------------------------+------------------+
+|                                                   | Historia #:      |
+| SOLICITUD DE TURNO                                |  2               |
++=======================+==============+============+==================+
+| TEST DE ACEPTACION    | Prioridad:   | Riesgo:    | Tiempo estimado: |
+|                       |  1           |            |                  |
++-----------------------+--------------+------------+------------------+
+| **Descripcion**                                                      |
+|                                                                      |
+|   Una vez que el usuario se haya autenticado con su nombre de usuario|
+|   y clave podra ingresar a solicitar el turno de consulta en la espec|
+|   ialidad que desee, el sistema le mostrara los turnos disponibles en|
+|   caso de que ya se hayan cedido turnos para ese dia.                |
++----------------------------------------------------------------------+
+
++---------------------------------------------------+------------------+
+|                                                   | Historia #:      |
+| INFORMES DE LABORATORIO                           |  3               |
++=======================+==============+============+==================+
+| TEST DE ACEPTACION    | Prioridad:   | Riesgo:    | Tiempo estimado: |
+|                       |  1           |            |                  |
++-----------------------+--------------+------------+------------------+
+| **Descripcion**                                                      |
+|                                                                      |
+|   Los informes de estudios realizados en los laboratorios de la clini|
+|   a se podran consultar por medio del sistema. Los usuarios con el ro|
+|   l de medicos podran realizar estas consultas.                      |   
++----------------------------------------------------------------------+
+
++---------------------------------------------------+------------------+
+|                                                   | Historia #:      |
+| ASIGNACION DE ROLES                               |  4               |
++=======================+==============+============+==================+
+| TEST DE ACEPTACION    | Prioridad:   | Riesgo:    | Tiempo estimado: |
+|                       |  1           |            |                  |
++-----------------------+--------------+------------+------------------+
+| **Descripcion**                                                      |
+|                                                                      |
+|   El usuario con privilegios de administracion que es el primero que |
+|   se crea es capaz de asignar los roles a los usuarios, basandose en |
+|   estos roles el sistema es capaz de reconocer a los usuarios a las  |
+|   vistas, creacion y modificacion que ellos estan autorizados.       |
++----------------------------------------------------------------------+
+
+
 
 Casos de prueba
 ---------------
@@ -298,4 +344,13 @@ Modelado de requisitos Funcionales
 Tarjetas de tarea
 -----------------
 
-
++-----------------------------------------------------------------------+
+| **Alta de usuario**                                                   |
++=======================================================================+
+|                                                                       |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+|                                                                       |
+|                                                                       |
++-----------------------------------------------------------------------+
