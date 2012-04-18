@@ -38,6 +38,8 @@ Analisis
 Captura de requisitos
 ---------------------
 
+
+
 Estudio de factibilidad o viabilidad tecnica
 --------------------------------------------
 
@@ -99,30 +101,90 @@ Al ser un sistema multiplataforma los requisitos en cuanto a software son muy fl
 Requerimientos de Telecomunicaciones
 ------------------------------------
 
-Es necesario contar con una red local, que interconecte a los clientes que se encuentran en las estaciones de trabajo con el servidor principal.
+Es necesario contar con una red local de 100 Mbit/s (se recomienda 1000 Mbit/s), que interconecte a los clientes que se encuentran en las estaciones de trabajo con el servidor principal.
 
-La red local (LAN), puede ser cableada utilizando un router y un swtich como minimo o puede implementarse de manera inalambrica (WIFI), si se desea que clientes externos a la LAN puedan hacer consultas en el servidor, se requerira una conexion a internet.
+La red local (LAN), puede ser cableada utilizando un router y un swtich como minimo o puede implementarse de manera inalambrica (WIFI), si se desea que clientes externos a la LAN puedan hacer consultas en el servidor, se requerira una conexion a internet con una velocidad de subida de 512kb.
 
 Ademas de los clientes estaticos, existe la posibilidad de utilizar el sistema web mediante dispositivos moviles que cuenten con una conexion a internet y un navegador web.
 
 Estudio de factibilidad o viabilidad operativa
 ----------------------------------------------
 
+* La implementacion de sistema de hara una vez que este este terminado.
+
+* Se va a capacitar a los operarios del sistema y a los medicos que lo vayan a utilizar.
+
+* Se soporta el sistema completo por 3 meses
+
+* Las tareas listadas estan bonificadas dentro del presupuesto final.
+
 Estudio de factibilidad o viabilidad legal
 ------------------------------------------
 
-Este software esta liberado bajo las condiciones de la Licencia Publica General, lease licencia.txt
+* Este software esta liberado bajo las condiciones de la Licencia Publica General, lease licencia.txt
+
+* La informacion fiscal homologada para facturacion se realizara a pedido del cliente y por separado del presente presupuesto.
+
+* Los modulos fiscales son desarrollados a medida por marca y modelo de impresora asi como la regulacion fiscal correspondiente segun la categoria tributaria del cliente.
 
 Detalle de costos
 -----------------
+
++----------------------------+------------------------+
+| Detalle                    | Costo                  |
++============================+========================+
+| Consulta                   |                        |
++----------------------------+------------------------+
+| Analisis de requerimiento  |                        |
++----------------------------+------------------------+
+| Desarrollo del sistema     |                        |
++----------------------------+------------------------+
+| Software requerido         |                        |
++----------------------------+------------------------+
+| Hardware requerido         |                        |
++----------------------------+------------------------+
+| Instalacion de software    |                        |
++----------------------------+------------------------+
+| Mantenimiento mensual      |                        |
++----------------------------+------------------------+
+| Capacitacion de personal   |                        |
++----------------------------+------------------------+
+| Respaldo de datos anual    |                        |
++----------------------------+------------------------+
+| Total                      |                        |
++----------------------------+------------------------+
 
 ======================
 Requisitos Funcionales
 ======================
 
+* Woppi permite administrar la gestion de las tareas de cada area.
+
+* Gestiones para los medicos
+    * Consulta de pacientes
+    * Historia clinica general
+    * Informes de laboratorios
+
+* Gestiones de pacientes
+    * Reserva de turnos
+    * Confirmacion de turnos
+    * Consulta de resultados de estudios
+    * Consulta de historia clinica
+
+* Gestiones administrativas
+    * Asignacion de turnos
+    * Confirmacion de entrega de informes
+    * Notificaciones a los medicos
+    * Consultas de estado en laboratorios
+    * Gestion de farmacia
+
 =========================
 Requisitos No Funcionales
 =========================
+
+* Facilitar la gestion interna y externa de la clinica.
+
+* Poder acceder desde distintos dispositivos (pc, tablet, notebook, smartphone, etc.), y desde distintos sistemas operativos (MS Windows*, GNU/Linux, MacOS, BSD, etc.)
 
 Modelado de requisitos funcionales
 ----------------------------------
