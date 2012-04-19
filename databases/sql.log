@@ -1,30 +1,47 @@
-timestamp: 2012-04-16T18:21:09.266080
+timestamp: 2012-04-18T18:32:59.276788
 CREATE TABLE auth_user(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    first_name CHAR(128),
-    last_name CHAR(128),
-    email CHAR(512),
+    nombre CHAR(128),
+    apellido CHAR(128),
+    username CHAR(512) UNIQUE,
+    email CHAR(128),
     password CHAR(512),
+    address CHAR(512),
+    city CHAR(512),
+    zip CHAR(512),
+    phone CHAR(512),
     registration_key CHAR(512),
     reset_password_key CHAR(512),
     registration_id CHAR(512)
 );
 success!
-timestamp: 2012-04-16T18:21:09.397536
+timestamp: 2012-04-18T18:35:48.626050
+ALTER TABLE auth_user ADD direccion CHAR(512);
+timestamp: 2012-04-18T18:35:48.748230
+ALTER TABLE auth_user ADD ciudad CHAR(512);
+timestamp: 2012-04-18T18:35:48.828037
+ALTER TABLE auth_user ADD clave CHAR(512);
+timestamp: 2012-04-18T18:35:48.928004
+ALTER TABLE auth_user ADD celular CHAR(512);
+timestamp: 2012-04-18T18:35:49.006673
+ALTER TABLE auth_user ADD cp CHAR(512);
+timestamp: 2012-04-18T18:35:49.106209
+ALTER TABLE auth_user ADD telefono CHAR(512);
+timestamp: 2012-04-18T18:35:49.189200
 CREATE TABLE auth_group(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     role CHAR(512),
     description TEXT
 );
 success!
-timestamp: 2012-04-16T18:21:09.509523
+timestamp: 2012-04-18T18:35:49.287428
 CREATE TABLE auth_membership(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     user_id INTEGER REFERENCES auth_user(id) ON DELETE CASCADE,
     group_id INTEGER REFERENCES auth_group(id) ON DELETE CASCADE
 );
 success!
-timestamp: 2012-04-16T18:21:09.621769
+timestamp: 2012-04-18T18:35:49.401059
 CREATE TABLE auth_permission(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     group_id INTEGER REFERENCES auth_group(id) ON DELETE CASCADE,
@@ -33,7 +50,7 @@ CREATE TABLE auth_permission(
     record_id INTEGER
 );
 success!
-timestamp: 2012-04-16T18:21:09.734636
+timestamp: 2012-04-18T18:35:49.513406
 CREATE TABLE auth_event(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     time_stamp TIMESTAMP,
@@ -43,7 +60,7 @@ CREATE TABLE auth_event(
     description TEXT
 );
 success!
-timestamp: 2012-04-16T18:21:09.845648
+timestamp: 2012-04-18T18:35:49.625017
 CREATE TABLE auth_cas(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     user_id INTEGER REFERENCES auth_user(id) ON DELETE CASCADE,
@@ -53,13 +70,13 @@ CREATE TABLE auth_cas(
     renew CHAR(1)
 );
 success!
-timestamp: 2012-04-17T10:36:48.578784
+timestamp: 2012-04-18T18:35:49.737027
 CREATE TABLE especialidad(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     nombre CHAR(512)
 );
 success!
-timestamp: 2012-04-17T10:36:48.724042
+timestamp: 2012-04-18T18:35:49.849680
 CREATE TABLE medico(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     titulo CHAR(512),
@@ -75,7 +92,7 @@ CREATE TABLE medico(
     fealta TIMESTAMP
 );
 success!
-timestamp: 2012-04-17T10:36:48.836189
+timestamp: 2012-04-18T18:35:50.019151
 CREATE TABLE personal(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     nombre CHAR(512),
@@ -91,7 +108,7 @@ CREATE TABLE personal(
     fealta TIMESTAMP
 );
 success!
-timestamp: 2012-04-17T10:36:48.947785
+timestamp: 2012-04-18T18:35:50.129844
 CREATE TABLE osocial(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     nombre CHAR(512),
@@ -101,7 +118,7 @@ CREATE TABLE osocial(
     comentarios TEXT
 );
 success!
-timestamp: 2012-04-17T10:36:49.060095
+timestamp: 2012-04-18T18:35:50.242097
 CREATE TABLE paciente(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     nombre CHAR(512),
@@ -117,7 +134,7 @@ CREATE TABLE paciente(
     fealta TIMESTAMP
 );
 success!
-timestamp: 2012-04-17T10:36:49.173069
+timestamp: 2012-04-18T18:35:50.342613
 CREATE TABLE pedido(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     paciente INTEGER REFERENCES paciente(id) ON DELETE CASCADE,
@@ -127,7 +144,7 @@ CREATE TABLE pedido(
     fecha DATE
 );
 success!
-timestamp: 2012-04-17T10:36:49.284694
+timestamp: 2012-04-18T18:35:50.453850
 CREATE TABLE turno(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     paciente INTEGER REFERENCES paciente(id) ON DELETE CASCADE,
@@ -136,7 +153,7 @@ CREATE TABLE turno(
     comentario TEXT
 );
 success!
-timestamp: 2012-04-17T10:36:49.475340
+timestamp: 2012-04-18T18:35:50.577063
 CREATE TABLE historia(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     paciente INTEGER REFERENCES paciente(id) ON DELETE CASCADE,
@@ -145,3 +162,5 @@ CREATE TABLE historia(
     historia TEXT
 );
 success!
+timestamp: 2012-04-18T18:39:55.553198
+ALTER TABLE auth_user ADD tratamiento CHAR(512);

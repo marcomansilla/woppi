@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 #########################################################################
 ## This scaffolding model makes your app work on Google App Engine too
 ## File is released under public domain and you can use without limitations
@@ -9,18 +8,7 @@
 ## be redirected to HTTPS, uncomment the line below:
 # request.requires_https()
 
-if not request.env.web2py_runtime_gae:
-    ## if NOT running on Google App Engine use SQLite or other DB
-    db = DAL('sqlite://storage.sqlite')
-else:
-    ## connect to Google BigTable (optional 'google:datastore://namespace')
-    db = DAL('google:datastore')
-    ## store sessions and tickets there
-    session.connect(request, response, db = db)
-    ## or store session in Memcache, Redis, etc.
-    ## from gluon.contrib.memdb import MEMDB
-    ## from google.appengine.api.memcache import Client
-    ## session.connect(request, response, db = MEMDB(Client()))
+db = DAL('sqlite://storage.sqlite')
 
 ## by default give a view/generic.extension to all actions from localhost
 ## none otherwise. a pattern can be 'controller/function.extension'
@@ -44,6 +32,34 @@ auth = Auth(db, hmac_key=Auth.get_or_create_key())
 crud, service, plugins = Crud(db), Service(), PluginManager()
 
 ## create all tables needed by auth if not custom tables
+
+db.define_table(auth.settings.table_user_name,
+    Field('tratamiento'),
+    Field('nombre', length=128, default=''),
+    Field('apellido', length=128, default=''),
+    Field('username','string', unique=True, label='Nombre de usuario'),
+    Field('email', length=128, default='' ), # required
+    Field('clave', 'password', length=512, readable=False, label='Password'),
+    Field('direccion'),
+    Field('ciudad'),
+    Field('cp', label = 'Codigo Postal'),
+    Field('telefono'),
+    Field('celular'),
+    Field('registration_key', length=512, writable=False, readable=False, default=''),
+    Field('reset_password_key', length=512, writable=False, readable=False, default=''),
+    Field('registration_id', length=512, writable=False, readable=False, default=''))
+
+## do not forget validators
+custom_auth_table = db[auth.settings.table_user_name] # get the custom_auth_table
+custom_auth_table.nombre.requires = IS_NOT_EMPTY(error_message=auth.messages.is_empty)
+custom_auth_table.apellido.requires = IS_NOT_EMPTY(error_message=auth.messages.is_empty)
+custom_auth_table.clave.requires = [IS_STRONG(), CRYPT()]
+custom_auth_table.email.requires = [ IS_EMAIL(error_message=auth.messages.invalid_email), IS_NOT_IN_DB(db, custom_auth_table.email)]
+custom_auth_table.tratamiento.requires = IS_IN_SET(['Sr.', 'Sra', 'Srta.', 'Dr.', 'Lic.'])
+auth.settings.table_user = custom_auth_table # tell auth to use custom_auth_table
+
+## before auth.define_tables()
+
 auth.define_tables()
 
 ## configure email
@@ -78,4 +94,3 @@ use_janrain(auth,filename='private/janrain.key')
 ## >>> rows=db(db.mytable.myfield=='value').select(db.mytable.ALL)
 ## >>> for row in rows: print row.id, row.myfield
 #########################################################################
-
