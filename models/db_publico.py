@@ -1,29 +1,5 @@
 # -*- coding: utf-8 -*-
 
-db.define_table('osocial',
-    Field('nombre'),
-    Field('sigla'),
-    Field('direccion'),
-    Field('telefono'),
-    Field('comentarios','text'),
-    format = '%(id)s %(sigla)s'
-    )
-
-db.define_table('paciente',
-    Field('nombre'),
-    Field('apellido'),
-    Field('dni','integer'),
-    Field('fnac','date',label='Fecha de nacimiento'),
-    Field('sexo',requires=IS_IN_SET(['Varon','Mujer'])),
-    Field('domicilio'),
-    Field('telefono','integer'),
-    Field('celular','integer'),
-    Field('osocial', db.osocial, label='Obra Social'),
-    Field('comentarios','text'),
-    Field('fealta','datetime',label='Fecha Alta'),
-    format = '%(id)s - %(apellido)s %(nombre)s %(dni)s'
-   )
-
 db.define_table('pedido',
     Field('paciente',db.paciente),
     Field('msolicitante',db.medico),
