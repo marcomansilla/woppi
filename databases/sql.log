@@ -170,3 +170,9 @@ timestamp: 2012-04-19T19:01:01.575871
 ALTER TABLE auth_user ADD especialidad CHAR(512);
 timestamp: 2012-04-19T19:02:39.070031
 ALTER TABLE auth_user ADD osocial CHAR(512);
+timestamp: 2012-04-20T02:58:37.185040
+ALTER TABLE auth_user ADD ecivil CHAR(512);
+timestamp: 2012-04-20T02:59:49.405931
+ALTER TABLE auth_user ADD conyugue CHAR(512);
+timestamp: 2012-04-20T03:03:26.479942
+ALTER TABLE auth_user ADD alergias TEXT;

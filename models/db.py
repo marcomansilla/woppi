@@ -38,8 +38,10 @@ db.define_table(auth.settings.table_user_name,
     Field('nombre', length=128, default=''),
     Field('apellido', length=128, default=''),
     Field('username','string', unique=True, label='Nombre de usuario'),
-    Field('email', length=128, default='' ), # required
+    Field('email', length=128, default='' ),
     Field('password', 'password', length=512, readable=False, label='Password'),
+    Field('ecivil',widget=SQLFORM.widgets.radio.widget, label='Estado Civil'),
+    Field('conyugue',label='Nombre del/la conyugue'),
     Field('direccion'),
     Field('ciudad'),
     Field('cp', label = 'Codigo Postal'),
@@ -51,6 +53,7 @@ db.define_table(auth.settings.table_user_name,
     Field('reset_password_key', length=512, writable=False, readable=False, default=''),
     Field('registration_id', length=512, writable=False, readable=False, default=''),
     Field('fealta','datetime',default=request.now, writable=False,label='Fecha de alta'),
+    Field('alergias','text',readable=False, writable=False)
     )
 
 ## do not forget validators
@@ -60,6 +63,8 @@ custom_auth_table.apellido.requires = IS_NOT_EMPTY(error_message=auth.messages.i
 custom_auth_table.password.requires = [IS_STRONG(), CRYPT()]
 custom_auth_table.email.requires = [ IS_EMAIL(error_message=auth.messages.invalid_email), IS_NOT_IN_DB(db, custom_auth_table.email)]
 custom_auth_table.tratamiento.requires = IS_IN_SET(['Sr.', 'Sra', 'Srta.', 'Dr.', 'Lic.'])
+custom_auth_table.ecivil.requires = IS_IN_SET(['Soltero/a','Casado/a','Concubinato','juntado','arrimado/a'])
+custom_auth_table.username.comment = 'Este sera su nombre de usuario para identificarse en el sistema'
 auth.settings.table_user = custom_auth_table # tell auth to use custom_auth_table
 
 ## before auth.define_tables()
