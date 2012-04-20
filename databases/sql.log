@@ -164,3 +164,9 @@ CREATE TABLE historia(
 success!
 timestamp: 2012-04-18T18:39:55.553198
 ALTER TABLE auth_user ADD tratamiento CHAR(512);
+timestamp: 2012-04-19T19:01:01.375887
+ALTER TABLE auth_user ADD fealta TIMESTAMP;
+timestamp: 2012-04-19T19:01:01.575871
+ALTER TABLE auth_user ADD especialidad CHAR(512);
+timestamp: 2012-04-19T19:02:39.070031
+ALTER TABLE auth_user ADD osocial CHAR(512);

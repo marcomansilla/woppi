@@ -39,21 +39,25 @@ db.define_table(auth.settings.table_user_name,
     Field('apellido', length=128, default=''),
     Field('username','string', unique=True, label='Nombre de usuario'),
     Field('email', length=128, default='' ), # required
-    Field('clave', 'password', length=512, readable=False, label='Password'),
+    Field('password', 'password', length=512, readable=False, label='Password'),
     Field('direccion'),
     Field('ciudad'),
     Field('cp', label = 'Codigo Postal'),
+    Field('especialidad',writable=False, readable=False),
+    Field('osocial',writable=False, readable=False),
     Field('telefono'),
     Field('celular'),
     Field('registration_key', length=512, writable=False, readable=False, default=''),
     Field('reset_password_key', length=512, writable=False, readable=False, default=''),
-    Field('registration_id', length=512, writable=False, readable=False, default=''))
+    Field('registration_id', length=512, writable=False, readable=False, default=''),
+    Field('fealta','datetime',default=request.now, writable=False,label='Fecha de alta'),
+    )
 
 ## do not forget validators
 custom_auth_table = db[auth.settings.table_user_name] # get the custom_auth_table
 custom_auth_table.nombre.requires = IS_NOT_EMPTY(error_message=auth.messages.is_empty)
 custom_auth_table.apellido.requires = IS_NOT_EMPTY(error_message=auth.messages.is_empty)
-custom_auth_table.clave.requires = [IS_STRONG(), CRYPT()]
+custom_auth_table.password.requires = [IS_STRONG(), CRYPT()]
 custom_auth_table.email.requires = [ IS_EMAIL(error_message=auth.messages.invalid_email), IS_NOT_IN_DB(db, custom_auth_table.email)]
 custom_auth_table.tratamiento.requires = IS_IN_SET(['Sr.', 'Sra', 'Srta.', 'Dr.', 'Lic.'])
 auth.settings.table_user = custom_auth_table # tell auth to use custom_auth_table
