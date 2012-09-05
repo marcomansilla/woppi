@@ -1,182 +1,55 @@
-timestamp: 2012-04-18T18:32:59.276788
+timestamp: 2012-09-05T00:18:26.734072
 CREATE TABLE auth_user(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    nombre CHAR(128),
-    apellido CHAR(128),
-    username CHAR(512) UNIQUE,
-    email CHAR(128),
+    first_name CHAR(128),
+    last_name CHAR(128),
+    email CHAR(512),
     password CHAR(512),
-    address CHAR(512),
-    city CHAR(512),
-    zip CHAR(512),
-    phone CHAR(512),
     registration_key CHAR(512),
     reset_password_key CHAR(512),
     registration_id CHAR(512)
 );
 success!
-timestamp: 2012-04-18T18:35:48.626050
-ALTER TABLE auth_user ADD direccion CHAR(512);
-timestamp: 2012-04-18T18:35:48.748230
-ALTER TABLE auth_user ADD ciudad CHAR(512);
-timestamp: 2012-04-18T18:35:48.828037
-ALTER TABLE auth_user ADD clave CHAR(512);
-timestamp: 2012-04-18T18:35:48.928004
-ALTER TABLE auth_user ADD celular CHAR(512);
-timestamp: 2012-04-18T18:35:49.006673
-ALTER TABLE auth_user ADD cp CHAR(512);
-timestamp: 2012-04-18T18:35:49.106209
-ALTER TABLE auth_user ADD telefono CHAR(512);
-timestamp: 2012-04-18T18:35:49.189200
+timestamp: 2012-09-05T00:18:26.839743
 CREATE TABLE auth_group(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     role CHAR(512),
     description TEXT
 );
 success!
-timestamp: 2012-04-18T18:35:49.287428
+timestamp: 2012-09-05T00:18:26.930562
 CREATE TABLE auth_membership(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    user_id INTEGER REFERENCES auth_user(id) ON DELETE CASCADE,
-    group_id INTEGER REFERENCES auth_group(id) ON DELETE CASCADE
+    user_id INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
+    group_id INTEGER REFERENCES auth_group (id) ON DELETE CASCADE
 );
 success!
-timestamp: 2012-04-18T18:35:49.401059
+timestamp: 2012-09-05T00:18:27.020475
 CREATE TABLE auth_permission(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    group_id INTEGER REFERENCES auth_group(id) ON DELETE CASCADE,
+    group_id INTEGER REFERENCES auth_group (id) ON DELETE CASCADE,
     name CHAR(512),
     table_name CHAR(512),
     record_id INTEGER
 );
 success!
-timestamp: 2012-04-18T18:35:49.513406
+timestamp: 2012-09-05T00:18:27.110408
 CREATE TABLE auth_event(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     time_stamp TIMESTAMP,
     client_ip CHAR(512),
-    user_id INTEGER REFERENCES auth_user(id) ON DELETE CASCADE,
+    user_id INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
     origin CHAR(512),
     description TEXT
 );
 success!
-timestamp: 2012-04-18T18:35:49.625017
+timestamp: 2012-09-05T00:18:27.199710
 CREATE TABLE auth_cas(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    user_id INTEGER REFERENCES auth_user(id) ON DELETE CASCADE,
+    user_id INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
     created_on TIMESTAMP,
     service CHAR(512),
     ticket CHAR(512),
     renew CHAR(1)
 );
 success!
-timestamp: 2012-04-18T18:35:49.737027
-CREATE TABLE especialidad(
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    nombre CHAR(512)
-);
-success!
-timestamp: 2012-04-18T18:35:49.849680
-CREATE TABLE medico(
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    titulo CHAR(512),
-    nombre CHAR(512),
-    apellido CHAR(512),
-    dni INTEGER,
-    matricula INTEGER,
-    especialidad INTEGER REFERENCES especialidad(id) ON DELETE CASCADE,
-    domicilio CHAR(512),
-    telefono INTEGER,
-    celular INTEGER,
-    comentarios TEXT,
-    fealta TIMESTAMP
-);
-success!
-timestamp: 2012-04-18T18:35:50.019151
-CREATE TABLE personal(
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    nombre CHAR(512),
-    apellido CHAR(512),
-    dni INTEGER,
-    cargo CHAR(512),
-    fnac DATE,
-    sexo CHAR(512),
-    domicilio CHAR(512),
-    telefono INTEGER,
-    celular INTEGER,
-    comentarios TEXT,
-    fealta TIMESTAMP
-);
-success!
-timestamp: 2012-04-18T18:35:50.129844
-CREATE TABLE osocial(
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    nombre CHAR(512),
-    sigla CHAR(512),
-    direccion CHAR(512),
-    telefono CHAR(512),
-    comentarios TEXT
-);
-success!
-timestamp: 2012-04-18T18:35:50.242097
-CREATE TABLE paciente(
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    nombre CHAR(512),
-    apellido CHAR(512),
-    dni INTEGER,
-    fnac DATE,
-    sexo CHAR(512),
-    domicilio CHAR(512),
-    telefono INTEGER,
-    celular INTEGER,
-    osocial INTEGER REFERENCES osocial(id) ON DELETE CASCADE,
-    comentarios TEXT,
-    fealta TIMESTAMP
-);
-success!
-timestamp: 2012-04-18T18:35:50.342613
-CREATE TABLE pedido(
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    paciente INTEGER REFERENCES paciente(id) ON DELETE CASCADE,
-    msolicitante INTEGER REFERENCES medico(id) ON DELETE CASCADE,
-    mpracticante INTEGER REFERENCES medico(id) ON DELETE CASCADE,
-    pedido TEXT,
-    fecha DATE
-);
-success!
-timestamp: 2012-04-18T18:35:50.453850
-CREATE TABLE turno(
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    paciente INTEGER REFERENCES paciente(id) ON DELETE CASCADE,
-    fecha DATE,
-    medico INTEGER REFERENCES medico(id) ON DELETE CASCADE,
-    comentario TEXT
-);
-success!
-timestamp: 2012-04-18T18:35:50.577063
-CREATE TABLE historia(
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    paciente INTEGER REFERENCES paciente(id) ON DELETE CASCADE,
-    medico INTEGER REFERENCES medico(id) ON DELETE CASCADE,
-    fecha TIMESTAMP,
-    historia TEXT
-);
-success!
-timestamp: 2012-04-18T18:39:55.553198
-ALTER TABLE auth_user ADD tratamiento CHAR(512);
-timestamp: 2012-04-19T19:01:01.375887
-ALTER TABLE auth_user ADD fealta TIMESTAMP;
-timestamp: 2012-04-19T19:01:01.575871
-ALTER TABLE auth_user ADD especialidad CHAR(512);
-timestamp: 2012-04-19T19:02:39.070031
-ALTER TABLE auth_user ADD osocial CHAR(512);
-timestamp: 2012-04-20T02:58:37.185040
-ALTER TABLE auth_user ADD ecivil CHAR(512);
-timestamp: 2012-04-20T02:59:49.405931
-ALTER TABLE auth_user ADD conyugue CHAR(512);
-timestamp: 2012-04-20T03:03:26.479942
-ALTER TABLE auth_user ADD alergias TEXT;
-timestamp: 2012-04-20T03:12:38.877457
-ALTER TABLE auth_user ADD gfsangre CHAR(512);
-timestamp: 2012-04-20T03:12:39.060673
-ALTER TABLE auth_user ADD fnac DATE;

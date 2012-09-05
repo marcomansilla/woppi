@@ -1,2 +1,20 @@
+syntax: glob
+*.py[c/o]
+
 *.py?
 *.swp
+
+databases
+errors
+sessions
+
+databases/
+errors/
+sessions/
+
+databases/*
+errors/*
+sessions/*
+
+
+*/*.py?

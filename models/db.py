@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 #########################################################################
 ## This scaffolding model makes your app work on Google App Engine too
 ## File is released under public domain and you can use without limitations
@@ -8,7 +9,18 @@
 ## be redirected to HTTPS, uncomment the line below:
 # request.requires_https()
 
-db = DAL('sqlite://storage.sqlite')
+if not request.env.web2py_runtime_gae:
+    ## if NOT running on Google App Engine use SQLite or other DB
+    db = DAL('sqlite://storage.sqlite')
+else:
+    ## connect to Google BigTable (optional 'google:datastore://namespace')
+    db = DAL('google:datastore')
+    ## store sessions and tickets there
+    session.connect(request, response, db = db)
+    ## or store session in Memcache, Redis, etc.
+    ## from gluon.contrib.memdb import MEMDB
+    ## from google.appengine.api.memcache import Client
+    ## session.connect(request, response, db = MEMDB(Client()))
 
 ## by default give a view/generic.extension to all actions from localhost
 ## none otherwise. a pattern can be 'controller/function.extension'
@@ -28,50 +40,11 @@ response.generic_patterns = ['*'] if request.is_local else []
 #########################################################################
 
 from gluon.tools import Auth, Crud, Service, PluginManager, prettydate
-auth = Auth(db, hmac_key=Auth.get_or_create_key())
+auth = Auth(db)
 crud, service, plugins = Crud(db), Service(), PluginManager()
 
 ## create all tables needed by auth if not custom tables
-
-db.define_table(auth.settings.table_user_name,
-    Field('tratamiento'),
-    Field('nombre', length=128, default=''),
-    Field('apellido', length=128, default=''),
-    Field('username','string', unique=True, label='Nombre de usuario'),
-    Field('email', length=128, default='' ),
-    Field('password', 'password', length=512, readable=False, label='Password'),
-    Field('fnac','date',label='Fecha de nacimiento'),
-    Field('gfsangre',label='Grupo y Factor sanguineo'),
-    Field('ecivil',widget=SQLFORM.widgets.radio.widget, label='Estado Civil'),
-    Field('conyugue',label='Nombre del/la conyugue'),
-    Field('direccion'),
-    Field('ciudad'),
-    Field('cp', label = 'Codigo Postal'),
-    Field('especialidad',writable=False, readable=False),
-    Field('osocial',writable=False, readable=False),
-    Field('telefono'),
-    Field('celular'),
-    Field('registration_key', length=512, writable=False, readable=False, default=''),
-    Field('reset_password_key', length=512, writable=False, readable=False, default=''),
-    Field('registration_id', length=512, writable=False, readable=False, default=''),
-    Field('fealta','datetime',default=request.now, writable=False,label='Fecha de alta'),
-    Field('alergias','text',readable=False, writable=False)
-    )
-
-## do not forget validators
-custom_auth_table = db[auth.settings.table_user_name] # get the custom_auth_table
-custom_auth_table.nombre.requires = IS_NOT_EMPTY(error_message=auth.messages.is_empty)
-custom_auth_table.apellido.requires = IS_NOT_EMPTY(error_message=auth.messages.is_empty)
-custom_auth_table.password.requires = [IS_STRONG(), CRYPT()]
-custom_auth_table.email.requires = [ IS_EMAIL(error_message=auth.messages.invalid_email), IS_NOT_IN_DB(db, custom_auth_table.email)]
-custom_auth_table.tratamiento.requires = IS_IN_SET(['Sr.', 'Sra', 'Srta.', 'Dr.', 'Lic.'])
-custom_auth_table.ecivil.requires = IS_IN_SET(['Soltero/a','Casado/a','Concubinato','juntado','arrimado/a'])
-custom_auth_table.username.comment = 'Este sera su nombre de usuario para identificarse en el sistema'
-auth.settings.table_user = custom_auth_table # tell auth to use custom_auth_table
-
-## before auth.define_tables()
-
-auth.define_tables()
+auth.define_tables(username=False, signature=False)
 
 ## configure email
 mail=auth.settings.mailer
@@ -105,3 +78,6 @@ use_janrain(auth,filename='private/janrain.key')
 ## >>> rows=db(db.mytable.myfield=='value').select(db.mytable.ALL)
 ## >>> for row in rows: print row.id, row.myfield
 #########################################################################
+
+## after defining tables, uncomment below to enable auditing
+# auth.enable_record_versioning(db)
