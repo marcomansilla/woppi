@@ -12,6 +12,12 @@ databases/
 errors/
 sessions/
 
+*/*.log
+*/*.sql
+*/*.table 
+cache.*
+
+
 databases/*
 errors/*
 sessions/*
