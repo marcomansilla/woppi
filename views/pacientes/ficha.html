@@ -1,0 +1,58 @@
+{{extend 'layout.html'}}
+
+{{=form}}
+
+<script>
+  $(document).ready(esconder);
+
+  function esconder(){
+       $('#fichas_conyugue__row').hide();
+       $('#fichas_paciente__row').hide();
+       $('#fichas_al_descripcion__row').hide();
+       $('#fichas_en_descripcion__row').hide();
+       $('#fichas_op_descripcion__row').hide();
+       $('#fichas_me_descripcion__row').hide();
+
+  };
+
+  //Estado civil
+  $('#fichas_ecivil').change(function(){
+     if ($('#fichas_ecivil option:selected').text()=="Casado/a")
+         $('#fichas_conyugue__row').show();
+     else
+          $('#fichas_conyugue__row').hide();
+  });
+
+
+  //Verificacion de alergias
+  $('#fichas_alergia_med').change(function(){
+     if ($('#fichas_alergia_med').attr('checked'))
+         $('#fichas_al_descripcion__row').show();
+     else
+          $('#fichas_al_descripcion__row').hide();
+  });
+
+  //Verificacion enfermedad cronica
+  $('#fichas_enfermedad_cronica').change(function(){
+     if ($('#fichas_enfermedad_cronica').attr('checked'))
+         $('#fichas_en_descripcion__row').show();
+     else
+          $('#fichas_en_descripcion__row').hide();
+  });
+
+  //Verificacion de operaciones
+  $('#fichas_operacion').change(function(){
+     if ($('#fichas_operacion').attr('checked'))
+         $('#fichas_op_descripcion__row').show();
+     else
+          $('#fichas_op_descripcion__row').hide();
+  });
+
+  //Verificacion medicamentos
+  $('#fichas_medicamento').change(function(){
+     if ($('#fichas_medicamento').attr('checked'))
+         $('#fichas_me_descripcion__row').show();
+     else
+          $('#fichas_me_descripcion__row').hide();
+  });
+</script>

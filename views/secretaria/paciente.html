@@ -1,0 +1,7 @@
+{{extend 'layout.html'}}
+
+<form>
+   <h4>Ingrese su DNI</h4><input name="dni"  />
+   <input type="submit" value="Solicitar turno" onclick="ajax('turnos', ['dni'], 'target')">
+</form>
+<div id="target"></div>

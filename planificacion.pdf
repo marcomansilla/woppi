@@ -1,0 +1,4918 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 39 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 38 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Contents 40 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 38 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 41 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 38 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 42 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 38 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 43 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 38 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 44 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 38 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 45 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 38 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 46 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 38 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R12': class PDFCatalog 
+12 0 obj
+% Document Root
+<< /Outlines 14 0 R
+ /PageLabels 47 0 R
+ /PageMode /UseNone
+ /Pages 38 0 R
+ /Type /Catalog >>
+endobj
+% 'R13': class PDFInfo 
+13 0 obj
+<< /Author ()
+ /CreationDate (D:20120919180359+03'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R14': class PDFOutlines 
+14 0 obj
+<< /Count 27
+ /First 15 0 R
+ /Last 36 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+15 0 obj
+<< /Count 1
+ /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 741.0236
+ 0 ]
+ /First 16 0 R
+ /Last 16 0 R
+ /Next 17 0 R
+ /Parent 14 0 R
+ /Title (Descripcion del proyecto) >>
+endobj
+% 'Outline.24.0': class OutlineEntryObject 
+16 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 708.0236
+ 0 ]
+ /Parent 15 0 R
+ /Title (Presentacion) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 474.0236
+ 0 ]
+ /Next 18 0 R
+ /Parent 14 0 R
+ /Prev 15 0 R
+ /Title (Objetivos) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+18 0 obj
+<< /Count 11
+ /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 351.0236
+ 0 ]
+ /First 19 0 R
+ /Last 29 0 R
+ /Next 30 0 R
+ /Parent 14 0 R
+ /Prev 17 0 R
+ /Title (Documentacion tecnica) >>
+endobj
+% 'Outline.25.0': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 318.0236
+ 0 ]
+ /Next 20 0 R
+ /Parent 18 0 R
+ /Title (Analisis) >>
+endobj
+% 'Outline.25.1': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 288.0236
+ 0 ]
+ /Next 21 0 R
+ /Parent 18 0 R
+ /Prev 19 0 R
+ /Title (Asesor Tecnico) >>
+endobj
+% 'Outline.25.2': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 240.0236
+ 0 ]
+ /Next 22 0 R
+ /Parent 18 0 R
+ /Prev 20 0 R
+ /Title (Captura de requisitos) >>
+endobj
+% 'Outline.25.3': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 4 0 R
+ /XYZ
+ 62.69291
+ 210.0236
+ 0 ]
+ /Next 23 0 R
+ /Parent 18 0 R
+ /Prev 21 0 R
+ /Title (Encuesta:) >>
+endobj
+% 'Outline.25.4': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 324.0236
+ 0 ]
+ /Next 24 0 R
+ /Parent 18 0 R
+ /Prev 22 0 R
+ /Title (Estudio de factibilidad o viabilidad tecnica) >>
+endobj
+% 'Outline.25.5': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 294.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 18 0 R
+ /Prev 23 0 R
+ /Title (Requerimientos de Hardware) >>
+endobj
+% 'Outline.25.6': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 681.0236
+ 0 ]
+ /Next 26 0 R
+ /Parent 18 0 R
+ /Prev 24 0 R
+ /Title (Requerimientos de Software) >>
+endobj
+% 'Outline.25.7': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Next 27 0 R
+ /Parent 18 0 R
+ /Prev 25 0 R
+ /Title (Requerimientos de Telecomunicaciones) >>
+endobj
+% 'Outline.25.8': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 297.0236
+ 0 ]
+ /Next 28 0 R
+ /Parent 18 0 R
+ /Prev 26 0 R
+ /Title (Estudio de factibilidad o viabilidad operativa) >>
+endobj
+% 'Outline.25.9': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 189.0236
+ 0 ]
+ /Next 29 0 R
+ /Parent 18 0 R
+ /Prev 27 0 R
+ /Title (Estudio de factibilidad o viabilidad legal) >>
+endobj
+% 'Outline.25.10': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Parent 18 0 R
+ /Prev 28 0 R
+ /Title (Detalle de costos) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 351.0236
+ 0 ]
+ /Next 31 0 R
+ /Parent 14 0 R
+ /Prev 18 0 R
+ /Title (Requisitos Funcionales) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 636.0236
+ 0 ]
+ /Next 32 0 R
+ /Parent 14 0 R
+ /Prev 30 0 R
+ /Title (Requisitos No Funcionales) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+32 0 obj
+<< /Count 3
+ /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 549.0236
+ 0 ]
+ /First 33 0 R
+ /Last 35 0 R
+ /Next 36 0 R
+ /Parent 14 0 R
+ /Prev 31 0 R
+ /Title (Modelado de requisitos funcionales) >>
+endobj
+% 'Outline.26.0': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 516.0236
+ 0 ]
+ /Next 34 0 R
+ /Parent 32 0 R
+ /Title (Identificacion de actores) >>
+endobj
+% 'Outline.26.1': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 243.0236
+ 0 ]
+ /Next 35 0 R
+ /Parent 32 0 R
+ /Prev 33 0 R
+ /Title (Historial de usuario) >>
+endobj
+% 'Outline.26.2': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 636.0236
+ 0 ]
+ /Parent 32 0 R
+ /Prev 34 0 R
+ /Title (Casos de prueba) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+36 0 obj
+<< /Count 1
+ /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /First 37 0 R
+ /Last 37 0 R
+ /Parent 14 0 R
+ /Prev 32 0 R
+ /Title (Modelado de requisitos Funcionales) >>
+endobj
+% 'Outline.27.0': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /Parent 36 0 R
+ /Title (Tarjetas de tarea) >>
+endobj
+% 'R38': class PDFPages 
+38 0 obj
+% page tree
+<< /Count 8
+ /Kids [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R ]
+ /Type /Pages >>
+endobj
+% 'R39': class PDFStream 
+39 0 obj
+% page stream
+<< /Length 6304 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 720.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Descripcion del proyecto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Presentacion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.556412 Tw (Woppi es un sistema de gestion de especialidades medicas, concebido con el concepto basico de) Tj T* 0 Tw (integracion optima de tareas mediante la asignacion de roles a los usuarios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .447674 Tw (Las caracteristicas ofrecidas estan pensadas en la practicidad del sistema para administrar actividades y) Tj T* 0 Tw (ofrecer informacion en tiempo real:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion de Usuarios) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Asignacion de roles) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion de Especialidades) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion de Turnos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pedidos de estudios) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Notificaciones varias) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 516.0236 cm
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.119983 Tw (Esta organizado de manera modular, de manera que en cualquier momento se puede prescindir de) Tj T* 0 Tw (cualquiera de estos o agregar modulos personalizados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Objetivos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .454983 Tw (Optimizar las transacciones entre unidad medica y los pacientes, en sus distintos niveles de complejidad) Tj T* 0 Tw (y areas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.053984 Tw (Los pacientes podran realizar tramites via web sin demora, como ser pedido de turnos, consulta de) Tj T* 0 Tw (analisis e historias clinicas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .601163 Tw (Los medicos y personal cuentan con acceso distinto tipo de informacion segun el rol que le es asignado) Tj T* 0 Tw (\(el sistema cuenta con una politica de Control de Accesos Basado en Roles\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Documentacion tecnica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Analisis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Asesor Tecnico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dra. Estela Luz Tapia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Captura de requisitos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Encuesta:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Que Rol cumple en esta empresa?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Soy la jefa de ginecologia.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+Q
+q
+1 0 0 1 62.69291 135.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Cual es el nivel de concurrencia diario que tiene la clinica?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 207.3299 0 Td (Marco Mansilla) Tj T* -207.3299 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 761.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 147.8549 0 Td (Instituto Maria del Rosario de San Nicolas) Tj T* -147.8549 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 68.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 171.1999 0 Td (Final de Seminario de sistemas) Tj T* -171.1999 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 221.2099 0 Td (Pagina 1) Tj T* -221.2099 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R40': class PDFStream 
+40 0 obj
+% page stream
+<< /Length 9453 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 702.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 26 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.349983 Tw (En general es muy alto, en numeros generales estamos hablando de un aproximado de 700) Tj T* 0 Tw .741318 Tw (personas a 800 personas en promedio, hay dias en las que se superan ampliamente las 1500) Tj T* 0 Tw (personas.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Cual es el problema puntual que tiene la organizacion?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .679431 Tw (Hay muchos, todos tienen que ver con la gente que se encuentra en la clinica y el tiempo que) Tj T* 0 Tw (les toma hacer consultas sencillas o pedir estudios terminados.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Actualmente de que manera esta administrada su organizacion?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.756905 Tw (La administracion se realiza de manera manual, por medio de planillas y fichas personales,) Tj T* 0 Tw 1.334651 Tw (algunas consultas se realizan por medio de sistemas externos y hay una base de datos que) Tj T* 0 Tw (administra la provision de medicamentos.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (Cree que una sistematizacion de la gestion de informacion de su empresa ayudaria a tener un) Tj T* (mejor una mejor orgazacion y control?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.215433 Tw (Si, definitivamente. Estamos conscientes del avance tecnologico y la intencion es aprovechar) Tj T* 0 Tw (estas ventajas para optimizar nuestra forma de trabajo.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Que factores limitan a la instroduccion de nuevas tecnologias a su empresa?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.27284 Tw (Nos resulta limitante la falta de conocimiento del personal, lo cual con el incentivo apropiado) Tj T* 0 Tw 1.076651 Tw (podriamos superar, y la falta de infraestructura en cuanto a lo que podria requerir un sistema) Tj T* 0 Tw (administrativo.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Que es lo que espera de nuestro sistema?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.192126 Tw (A corto plazo esperamos que la concurrencia de pacientes por gestion de turnos o consultas) Tj T* 0 Tw 2.183059 Tw (irrelevantes sea minima, dado que el sistema debera ocuparse de eso, que la informacion) Tj T* 0 Tw .838314 Tw (requerida por medicos como historias clinicas y resultados de laboratorio esten disponibles de) Tj T* 0 Tw (manera rapida y fiable.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (8.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (Su personal esta capacitado en informatica?, de no ser asi, estarian dispuestos ser) Tj T* (capacitados por nuestra empresa?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.111412 Tw (Desconosco el nivel de conocimiento individual que puedan tener, pero estoy al tanto de que) Tj T* 0 Tw (todos tienen conocimientos de informatica basica, navegacion por internet y ofimatica.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .299318 Tw (Vamos a realizar un sondeo para ver el nivel de conocimiento individual y la predisposicion que) Tj T* 0 Tw (hay por parte de quienes requieran ser capacitados para poder operar el sistema venidero.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Estudio de factibilidad o viabilidad tecnica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Requerimientos de Hardware) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .534651 Tw (Se requiere un servidor principal y los clientes dependeran del numero de terminales funcionales que se) Tj T* 0 Tw (deseen, con los siguientes detalles:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.0236 cm
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 72 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 210.3299 0 Td (Servidor) Tj T* -210.3299 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Procesador) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Intel Pentium 4 o AMD Athlon X2 o sup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Memeoria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3GB DDR2 667 o sup.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Disco Duro) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (500GB 7200RPM o sup) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 148.3862 0 m 148.3862 54 l S
+n 0 72 m 469.8898 72 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 72 l S
+n 469.8898 0 m 469.8898 72 l S
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 54 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 213.3849 0 Td (Cliente) Tj T* -213.3849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Procesador) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Intel Pentium 4 o AMD Athlon X2 o sup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Memeoria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (512MB DDR400 o sup.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 148.3862 0 m 148.3862 36 l S
+n 0 54 m 469.8898 54 l S
+n 0 0 m 0 54 l S
+n 469.8898 0 m 469.8898 54 l S
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 207.3299 0 Td (Marco Mansilla) Tj T* -207.3299 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 761.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 147.8549 0 Td (Instituto Maria del Rosario de San Nicolas) Tj T* -147.8549 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 68.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 171.1999 0 Td (Final de Seminario de sistemas) Tj T* -171.1999 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 221.2099 0 Td (Pagina 2) Tj T* -221.2099 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R41': class PDFStream 
+41 0 obj
+% page stream
+<< /Length 9174 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 723.0236 cm
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Disco Duro) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (80GB 7200RPM o sup) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 18 m 469.8898 18 l S
+n 148.3862 0 m 148.3862 18 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.13186 Tw (Se recomienda el uso de UPS en los puestos de trabajo para asegurar el buen funcionamiento del) Tj T* 0 Tw (servicio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Requerimientos de Software) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 90 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 210.3299 0 Td (Servidor) Tj T* -210.3299 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sistema Operativo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.9294 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MS Windows, GNU/Linux, MacOS o BSD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Base de datos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.9294 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MySQL, PostgreSQL, Firebird o MongoDB) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Servidor web) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.9294 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Apache) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Aplicaciones) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.9294 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Python > 2.4, reportlab) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 153.9294 0 m 153.9294 72 l S
+n 0 90 m 469.8898 90 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 90 l S
+n 469.8898 0 m 469.8898 90 l S
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 72 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 213.3849 0 Td (Cliente) Tj T* -213.3849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sistema Operativo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.9294 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MS Windows, GNU/Linux, MacOS o BSD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Navegador web) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.9294 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mozilla Firefox, Chrome, Opera) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ofimatica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 159.9294 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LibreOffice, Okular \(pdf\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 153.9294 0 m 153.9294 54 l S
+n 0 72 m 469.8898 72 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 72 l S
+n 469.8898 0 m 469.8898 72 l S
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .137765 Tw (Al ser un sistema multiplataforma los requisitos en cuanto a software son muy flexibles y con la opcion de) Tj T* 0 Tw .831318 Tw (software libre es mucho mas variado el abanico de posibilidades en cuando a sistemas operativos para) Tj T* 0 Tw (cliente/servidor, ademas de las aplicaciones necesarias para el correcto funcionamiento del sistema.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Requerimientos de Telecomunicaciones) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .405868 Tw (Es necesario contar con una red local de 100 Mbit/s \(se recomienda 1000 Mbit/s\), que interconecte a los) Tj T* 0 Tw (clientes que se encuentran en las estaciones de trabajo con el servidor principal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 3.41936 Tw (La red local \(LAN\), puede ser cableada utilizando un router y un swtich como minimo o puede) Tj T* 0 Tw .721318 Tw (implementarse de manera inalambrica \(WIFI\), si se desea que clientes externos a la LAN puedan hacer) Tj T* 0 Tw (consultas en el servidor, se requerira una conexion a internet con una velocidad de subida de 512kb.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.408555 Tw (Ademas de los clientes estaticos, existe la posibilidad de utilizar el sistema web mediante dispositivos) Tj T* 0 Tw (moviles que cuenten con una conexion a internet y un navegador web.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Estudio de factibilidad o viabilidad operativa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.0236 cm
+Q
+q
+1 0 0 1 62.69291 267.0236 cm
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (La implementacion de sistema de hara una vez que este este terminado.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+Q
+q
+1 0 0 1 62.69291 237.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Se va a capacitar a los operarios del sistema y a los medicos que lo vayan a utilizar.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Se soporta el sistema completo por 3 meses) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Las tareas listadas estan bonificadas dentro del presupuesto final.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+Q
+q
+1 0 0 1 62.69291 171.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Estudio de factibilidad o viabilidad legal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Este software esta liberado bajo las condiciones de la Licencia Publica General, lease licencia.txt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .755697 Tw (La informacion fiscal homologada para facturacion se realizara a pedido del cliente y por separado) Tj T* 0 Tw (del presente presupuesto.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 207.3299 0 Td (Marco Mansilla) Tj T* -207.3299 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 761.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 147.8549 0 Td (Instituto Maria del Rosario de San Nicolas) Tj T* -147.8549 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 68.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 171.1999 0 Td (Final de Seminario de sistemas) Tj T* -171.1999 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 221.2099 0 Td (Pagina 3) Tj T* -221.2099 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R42': class PDFStream 
+42 0 obj
+% page stream
+<< /Length 12390 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.523318 Tw (Los modulos fiscales son desarrollados a medida por marca y modelo de impresora asi como la) Tj T* 0 Tw (regulacion fiscal correspondiente segun la categoria tributaria del cliente.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Detalle de costos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+1 1 1 rg
+n 0 198 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -18 re f*
+1 1 1 rg
+n 0 162 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 144 469.8898 -18 re f*
+1 1 1 rg
+n 0 126 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 108 469.8898 -18 re f*
+1 1 1 rg
+n 0 90 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 198 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 183 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 241.0176 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 104.9488 0 Td (Detalle) Tj T* -104.9488 0 Td ET
+Q
+Q
+q
+1 0 0 1 259.0176 183 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 204.8722 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 89.3761 0 Td (Costo) Tj T* -89.3761 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Consulta) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bonificada) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Analisis de requerimiento) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($300,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Desarrollo del sistema) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($9000,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software requerido) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Libre) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hardware requerido) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($1500,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Instalacion de software) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($400,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mantenimiento mensual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($300,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Capacitacion de personal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bonificada) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Respaldo de datos anual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($360,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Total) Tj T* ET
+Q
+Q
+q
+1 0 0 1 259.0176 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($11.860,00) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 180 m 469.8898 180 l S
+n 0 162 m 469.8898 162 l S
+n 0 144 m 469.8898 144 l S
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 253.0176 0 m 253.0176 198 l S
+n 0 198 m 469.8898 198 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 198 l S
+n 469.8898 0 m 469.8898 198 l S
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -18 re f*
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 108 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 96.95995 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 39.58497 0 Td (A\361o) Tj T* -39.58497 0 Td ET
+Q
+Q
+q
+1 0 0 1 114.9599 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 103.7699 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 38.82497 0 Td (Costo) Tj T* -38.82497 0 Td ET
+Q
+Q
+q
+1 0 0 1 230.7299 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 117.3899 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 38.12997 0 Td (Beneficio) Tj T* -38.12997 0 Td ET
+Q
+Q
+q
+1 0 0 1 360.1198 93 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 103.7699 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 20.19997 0 Td (Beneficio neto) Tj T* -20.19997 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.9599 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($11.860,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 230.7299 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 360.1198 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (-$11.860,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.9599 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($3.960,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 230.7299 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($18.000,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 360.1198 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($14.040,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.9599 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($3.960,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 230.7299 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($25.000,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 360.1198 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($21.040,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.9599 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($3.960,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 230.7299 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($37.000,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 360.1198 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($33.040,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 114.9599 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($3.960,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 230.7299 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($49.000,00) Tj T* ET
+Q
+Q
+q
+1 0 0 1 360.1198 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ($45.040,00) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 108.9599 0 m 108.9599 108 l S
+n 224.7299 0 m 224.7299 108 l S
+n 354.1198 0 m 354.1198 108 l S
+n 0 108 m 469.8898 108 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requisitos Funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Woppi permite administrar la gestion de las tareas de cada area.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 300.0236 cm
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Gestiones para los medicos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 44 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Consulta de pacientes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Historia clinica general) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Informes de laboratorios) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+Q
+q
+1 0 0 1 62.69291 138.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Gestiones de pacientes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 62 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Reserva de turnos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Confirmacion de turnos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Consulta de resultados de estudios) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Consulta de historia clinica) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Gestiones administrativas) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 207.3299 0 Td (Marco Mansilla) Tj T* -207.3299 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 761.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 147.8549 0 Td (Instituto Maria del Rosario de San Nicolas) Tj T* -147.8549 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 68.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 171.1999 0 Td (Final de Seminario de sistemas) Tj T* -171.1999 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 221.2099 0 Td (Pagina 4) Tj T* -221.2099 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R43': class PDFStream 
+43 0 obj
+% page stream
+<< /Length 9014 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 648.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 80 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 80 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Asignacion de turnos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Confirmacion de entrega de informes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Notificaciones a los medicos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Consultas de estado en laboratorios) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gestion de farmacia) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Requisitos No Funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Facilitar la gestion interna y externa de la clinica.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .093314 Tw (Poder acceder desde distintos dispositivos \(pc, tablet, notebook, smartphone, etc.\), y desde distintos) Tj T* 0 Tw (sistemas operativos \(MS Windows*, GNU/Linux, MacOS, BSD, etc.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modelado de requisitos funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Identificacion de actores) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+Q
+q
+1 0 0 1 62.69291 486.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Medico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.427126 Tw (Se encarga de dar realizar y confirmar los turnos de consulta, historias clinicas y solicitar) Tj T* 0 Tw (resultados de estudios para su posterior evaluacion.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Paciente) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.832706 Tw (Solicita turnos de consulta, se realiza los estudios en laboratorio, gestiona medicamentos) Tj T* 0 Tw (prescriptos.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Administrativo/Usuario de sistema) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .770751 Tw (Toma los turnos, da alta a los pacientes, consulta turnos disponibles, cancela turnos, gestiona) Tj T* 0 Tw (informacion de laboratorio.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Administrador de sistemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.395366 Tw (Quien se encarga de gestiones globales, de asignar nuevos roles a medicos, usuarios de) Tj T* 0 Tw (sistema y pacientes de ser requerido.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Soporte tecnico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.064269 Tw (Personal que se ocupa de tareas de mantenimiento o soporte en caso de fallas generales) Tj T* 0 Tw .676412 Tw (relacionadas con hardware, estos deben ser guiados por el administrador en caso de fallas de) Tj T* 0 Tw (software, dado que es quien mejor conoce la estructura y funcionamiento del sistema.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 255.0236 cm
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Historial de usuario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+1 1 1 rg
+n 0 66 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 33 469.8898 -33 re f*
+.960784 .960784 .862745 rg
+n 0 66 469.8898 -33 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 331.6507 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 115.2554 0 Td (ALTA DE PACIENTES) Tj T* -115.2554 0 Td ET
+Q
+Q
+q
+1 0 0 1 349.6507 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historia #:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TEST DE ACEPTACION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Prioridad:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 265.4914 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Riesgo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tiempo estimado:) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 33 m 469.8898 33 l S
+n 161.3054 0 m 161.3054 33 l S
+n 259.4914 0 m 259.4914 33 l S
+n 343.6507 0 m 343.6507 66 l S
+n 0 66 m 469.8898 66 l S
+n 0 0 m 0 66 l S
+n 469.8898 0 m 469.8898 66 l S
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 207.3299 0 Td (Marco Mansilla) Tj T* -207.3299 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 761.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 147.8549 0 Td (Instituto Maria del Rosario de San Nicolas) Tj T* -147.8549 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 68.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 171.1999 0 Td (Final de Seminario de sistemas) Tj T* -171.1999 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 221.2099 0 Td (Pagina 5) Tj T* -221.2099 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R44': class PDFStream 
+44 0 obj
+% page stream
+<< /Length 11544 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 681.0236 cm
+1 1 1 rg
+n 0 60 469.8898 -60 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Descripcion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+Q
+q
+1 0 0 1 6 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.445542 Tw (El formulario de alta de pacientes , se encuentra en la seccion de altas del sitio web, una vez) Tj T* 0 Tw 1.05748 Tw (registrado debera autenticarse en el formulario de acceso, entonces podra consultar sus turnos,) Tj T* 0 Tw (historia clinica, solicitar turnos nuevos, etc.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 60 m 469.8898 60 l S
+n 0 0 m 0 60 l S
+n 469.8898 0 m 469.8898 60 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+1 1 1 rg
+n 0 126 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 93 469.8898 -33 re f*
+1 1 1 rg
+n 0 60 469.8898 -60 re f*
+.960784 .960784 .862745 rg
+n 0 126 469.8898 -33 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 96 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 331.6507 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 111.6554 0 Td (SOLICITUD DE TURNO) Tj T* -111.6554 0 Td ET
+Q
+Q
+q
+1 0 0 1 349.6507 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historia #:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 96 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TEST DE ACEPTACION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Prioridad:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 63 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 265.4914 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Riesgo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tiempo estimado:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Descripcion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+Q
+q
+1 0 0 1 6 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.052927 Tw (El paciente crea una ficha con sus datos, la cual debe ser aprobada por una secretaria o el) Tj T* 0 Tw .059986 Tw (administrador, a su vez llena una ficha con informacion de sus estado de salud a modo de historial) Tj T* 0 Tw (para los casos que se requieran.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 93 m 469.8898 93 l S
+n 0 60 m 469.8898 60 l S
+n 161.3054 60 m 161.3054 93 l S
+n 259.4914 60 m 259.4914 93 l S
+n 343.6507 60 m 343.6507 126 l S
+n 0 126 m 469.8898 126 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 126 l S
+n 469.8898 0 m 469.8898 126 l S
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+1 1 1 rg
+n 0 114 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 81 469.8898 -33 re f*
+1 1 1 rg
+n 0 48 469.8898 -48 re f*
+.960784 .960784 .862745 rg
+n 0 114 469.8898 -33 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 84 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 331.6507 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 93.59036 0 Td (INFORMES DE LABORATORIO) Tj T* -93.59036 0 Td ET
+Q
+Q
+q
+1 0 0 1 349.6507 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historia #:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 84 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TEST DE ACEPTACION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Prioridad:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 265.4914 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Riesgo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tiempo estimado:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Descripcion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+Q
+q
+1 0 0 1 6 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .203735 Tw (Los informes de estudios realizados en los laboratorios de la clini a se podran consultar por medio) Tj T* 0 Tw (del sistema. Los usuarios con el ro l de medicos podran realizar estas consultas.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 81 m 469.8898 81 l S
+n 0 48 m 469.8898 48 l S
+n 161.3054 48 m 161.3054 81 l S
+n 259.4914 48 m 259.4914 81 l S
+n 343.6507 48 m 343.6507 114 l S
+n 0 114 m 469.8898 114 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 114 l S
+n 469.8898 0 m 469.8898 114 l S
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+Q
+q
+1 0 0 1 62.69291 423.0236 cm
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+1 1 1 rg
+n 0 126 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 93 469.8898 -33 re f*
+1 1 1 rg
+n 0 60 469.8898 -60 re f*
+.960784 .960784 .862745 rg
+n 0 126 469.8898 -33 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 96 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 331.6507 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 107.7554 0 Td (ASIGNACION DE ROLES) Tj T* -107.7554 0 Td ET
+Q
+Q
+q
+1 0 0 1 349.6507 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historia #:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 96 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+q
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TEST DE ACEPTACION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Prioridad:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 63 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 265.4914 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Riesgo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tiempo estimado:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Descripcion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+Q
+q
+1 0 0 1 6 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .192339 Tw (El usuario con privilegios de administracion que es el primero que se crea es capaz de asignar los) Tj T* 0 Tw .452927 Tw (roles a los usuarios, basandose en estos roles el sistema es capaz de reconocer a los usuarios a) Tj T* 0 Tw (las vistas, creacion y modificacion que ellos estan autorizados.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 93 m 469.8898 93 l S
+n 0 60 m 469.8898 60 l S
+n 161.3054 60 m 161.3054 93 l S
+n 259.4914 60 m 259.4914 93 l S
+n 343.6507 60 m 343.6507 126 l S
+n 0 126 m 469.8898 126 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 126 l S
+n 469.8898 0 m 469.8898 126 l S
+Q
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+1 1 1 rg
+n 0 126 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 93 469.8898 -33 re f*
+1 1 1 rg
+n 0 60 469.8898 -60 re f*
+.960784 .960784 .862745 rg
+n 0 126 469.8898 -33 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 96 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 331.6507 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 108.3204 0 Td (SOLICITUD DE TURNOS) Tj T* -108.3204 0 Td ET
+Q
+Q
+q
+1 0 0 1 349.6507 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historia #:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 96 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TEST DE ACEPTACION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Prioridad:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 63 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 265.4914 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Riesgo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tiempo estimado:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Descripcion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+Q
+q
+1 0 0 1 6 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.326651 Tw (El paciente luego de haber completado sus datos en el formulario de registro puede acceder a) Tj T* 0 Tw .62061 Tw (solicitar turno para lo cual debe escribir su numero de documento, el cual luego de ser verificado) Tj T* 0 Tw (le solicita seleccionar especialidades, medicos, hora y fecha para ello.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 93 m 469.8898 93 l S
+n 0 60 m 469.8898 60 l S
+n 161.3054 60 m 161.3054 93 l S
+n 259.4914 60 m 259.4914 93 l S
+n 343.6507 60 m 343.6507 126 l S
+n 0 126 m 469.8898 126 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 126 l S
+n 469.8898 0 m 469.8898 126 l S
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+Q
+q
+1 0 0 1 62.69291 126.0236 cm
+1 1 1 rg
+n 0 33 469.8898 -33 re f*
+.960784 .960784 .862745 rg
+n 0 33 469.8898 -33 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 331.6507 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 116.3654 0 Td (ALTA DE PERSONAL) Tj T* -116.3654 0 Td ET
+Q
+Q
+q
+1 0 0 1 349.6507 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historia #:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 343.6507 0 m 343.6507 33 l S
+n 0 33 m 469.8898 33 l S
+n 0 0 m 0 33 l S
+n 469.8898 0 m 469.8898 33 l S
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 207.3299 0 Td (Marco Mansilla) Tj T* -207.3299 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 761.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 147.8549 0 Td (Instituto Maria del Rosario de San Nicolas) Tj T* -147.8549 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 68.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 171.1999 0 Td (Final de Seminario de sistemas) Tj T* -171.1999 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 221.2099 0 Td (Pagina 6) Tj T* -221.2099 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R45': class PDFStream 
+45 0 obj
+% page stream
+<< /Length 9849 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 648.0236 cm
+1 1 1 rg
+n 0 93 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -60 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TEST DE ACEPTACION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Prioridad:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 167.3054 63 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 265.4914 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Riesgo:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.6507 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tiempo estimado:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Descripcion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+Q
+q
+1 0 0 1 6 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .849982 Tw (El personal de la institucion debe solictar los accesos necesarios al usuario administrador, quien) Tj T* 0 Tw 2.170814 Tw (ademas le otorgara los persmisos y grupos correspondientes para que pueda desarrollar sus) Tj T* 0 Tw (tareas.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 93 m 469.8898 93 l S
+n 0 60 m 469.8898 60 l S
+n 161.3054 60 m 161.3054 93 l S
+n 259.4914 60 m 259.4914 93 l S
+n 343.6507 60 m 343.6507 93 l S
+n 0 0 m 0 93 l S
+n 469.8898 0 m 469.8898 93 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Casos de prueba) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+1 1 1 rg
+n 0 180 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 162 469.8898 -33 re f*
+1 1 1 rg
+n 0 129 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 96 469.8898 -30 re f*
+1 1 1 rg
+n 0 66 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 180 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 165 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 132 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de usuario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 132 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (01 - Validacion de usuario) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 99 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Alta de paciente) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 69 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Prueba ) Tj /F1 10 Tf (El formulario de alta de paciente debe ser completado y validado antes de que este pueda ser) Tj T* (registrado en el sistema.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Entrada ) Tj /F1 10 Tf (Los campos son validados automaticamente desde el cliente, el unico requisito para los) Tj T* (pacientes es que su dni debe ser unico en la base de datos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Resultado Esperado ) Tj /F1 10 Tf (Notificacion de errores el los campos que no sean validos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Evaluacion de la prueba ) Tj /F1 10 Tf (OK) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 162 m 469.8898 162 l S
+n 0 129 m 469.8898 129 l S
+n 0 96 m 469.8898 96 l S
+n 0 66 m 469.8898 66 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 156.6299 129 m 156.6299 162 l S
+n 0 180 m 469.8898 180 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 180 l S
+n 469.8898 0 m 469.8898 180 l S
+Q
+Q
+q
+1 0 0 1 62.69291 426.0236 cm
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+1 1 1 rg
+n 0 192 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 174 469.8898 -33 re f*
+1 1 1 rg
+n 0 141 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 108 469.8898 -30 re f*
+1 1 1 rg
+n 0 78 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -42 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 192 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 177 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 144 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (02) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de usuario:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 144 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (02 - Alta de tuno) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Validacion de turnos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 81 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Prueba ) Tj /F1 10 Tf (El formulario de alta de turno debe ser completado luego de que el dni del paciente es) Tj T* (validado en la base de datos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Entrada ) Tj /F1 10 Tf (Campo de texto que solicita al usuario su numero de documento.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F2 10 Tf 0 0 0 rg (Resultado Esperado ) Tj /F1 10 Tf (Redireccion al formulario de seleccion de especialidades, medicos y fechas para) Tj T* (el turno solicitado. Si el dni no existe se solicita al usuario registrarse en el sistema para que este le) Tj T* (sea otorgado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Evaluacion de la prueba ) Tj /F1 10 Tf (OK) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 174 m 469.8898 174 l S
+n 0 141 m 469.8898 141 l S
+n 0 108 m 469.8898 108 l S
+n 0 78 m 469.8898 78 l S
+n 0 60 m 469.8898 60 l S
+n 0 18 m 469.8898 18 l S
+n 156.6299 141 m 156.6299 174 l S
+n 0 192 m 469.8898 192 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 192 l S
+n 469.8898 0 m 469.8898 192 l S
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 108.0236 cm
+1 1 1 rg
+n 0 114 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 96 469.8898 -33 re f*
+1 1 1 rg
+n 0 63 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 114 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 99 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (03) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Atencion de consultas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (03 - atencion de consultas por los medicos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Atencion de consultas) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Prueba ) Tj /F1 10 Tf (El medico puede ver los turnos pendientes para el dia segun su especialidad luego de haberse) Tj T* (logueado en el sistema.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 96 m 469.8898 96 l S
+n 0 63 m 469.8898 63 l S
+n 0 30 m 469.8898 30 l S
+n 156.6299 63 m 156.6299 96 l S
+n 0 114 m 469.8898 114 l S
+n 0 0 m 0 114 l S
+n 469.8898 0 m 469.8898 114 l S
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 207.3299 0 Td (Marco Mansilla) Tj T* -207.3299 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 761.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 147.8549 0 Td (Instituto Maria del Rosario de San Nicolas) Tj T* -147.8549 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 68.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 171.1999 0 Td (Final de Seminario de sistemas) Tj T* -171.1999 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 221.2099 0 Td (Pagina 7) Tj T* -221.2099 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R46': class PDFStream 
+46 0 obj
+% page stream
+<< /Length 6640 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 663.0236 cm
+1 1 1 rg
+n 0 78 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 48 469.8898 -30 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Entrada ) Tj /F1 10 Tf (El medico se loguea en el sistema con su direccion de mail y clave el sistema lo autoriza a ver) Tj T* (los controladores segun el grupo al que pertenece.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Resultado Esperado ) Tj /F1 10 Tf (Listado de pacientes para la consulta del dia, estos estan por orden de solicitud) Tj T* (de turno y elazados a sus historias clinicas e informes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Evaluacion de la prueba ) Tj /F1 10 Tf (OK) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 78 m 469.8898 78 l S
+n 0 48 m 469.8898 48 l S
+n 0 18 m 469.8898 18 l S
+n 0 0 m 0 78 l S
+n 469.8898 0 m 469.8898 78 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+1 1 1 rg
+n 0 204 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 186 469.8898 -33 re f*
+1 1 1 rg
+n 0 153 469.8898 -33 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -42 re f*
+1 1 1 rg
+n 0 78 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 48 469.8898 -30 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 204 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 189 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 140.8849 0 Td (CASO DE PRUEBA DE ACEPTACION) Tj T* -140.8849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 171 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (CODIGO:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 156 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (04) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 162.6299 171 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Historial de medico:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 162.6299 156 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (04 - Historia clinica) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Nombre:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Consulta/agregado de historia clinica) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 81 cm
+q
+BT 1 0 0 1 0 26 Tm 12 TL /F2 10 Tf 0 0 0 rg (Prueba ) Tj /F1 10 Tf (El medico consulta la informacion del usuario y su historia clinica durante su visita, este) Tj T* (completa una nueva historia con los datos de su ultima visita para que estos esten asentados en la) Tj T* (proxima visita.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Entrada ) Tj /F1 10 Tf (El nombre del paciente que asiste a la consulta esta enlazado a la historia clinica y dentro) Tj T* (tiene la opcion de agregar una nueva visita) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F2 10 Tf 0 0 0 rg (Resultado Esperado ) Tj /F1 10 Tf (Las historias clinicas deben estar disponibles para lectura y escritura por el) Tj T* (medico que atiende al paciente durante la visita.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Evaluacion de la prueba ) Tj /F1 10 Tf (OK) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 186 m 469.8898 186 l S
+n 0 153 m 469.8898 153 l S
+n 0 120 m 469.8898 120 l S
+n 0 78 m 469.8898 78 l S
+n 0 48 m 469.8898 48 l S
+n 0 18 m 469.8898 18 l S
+n 156.6299 153 m 156.6299 186 l S
+n 0 204 m 469.8898 204 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 204 l S
+n 469.8898 0 m 469.8898 204 l S
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Modelado de requisitos Funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Tarjetas de tarea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+1 1 1 rg
+n 0 48 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 48 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 192.8249 0 Td (Alta de usuario) Tj T* -192.8249 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (El administrador da el alta a los usuarios que requieren privilegios para operar en el sistema, medicos,) Tj T* (tecnicos, secretaria, etc.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 30 m 469.8898 30 l S
+n 0 48 m 469.8898 48 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 48 l S
+n 469.8898 0 m 469.8898 48 l S
+Q
+Q
+q
+1 0 0 1 62.69291 330.0236 cm
+Q
+q
+1 0 0 1 62.69291 324.0236 cm
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+1 1 1 rg
+n 0 48 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 48 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 457.8898 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 183.3849 0 Td (Consulta de turnos) Tj T* -183.3849 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Secretarias y medicos pueden consultar los turnos pendientes y terminados filtrando por fecha,) Tj T* (pacientes, especialidades, etc.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 30 m 469.8898 30 l S
+n 0 48 m 469.8898 48 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 48 l S
+n 469.8898 0 m 469.8898 48 l S
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 207.3299 0 Td (Marco Mansilla) Tj T* -207.3299 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 761.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 147.8549 0 Td (Instituto Maria del Rosario de San Nicolas) Tj T* -147.8549 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 68.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 171.1999 0 Td (Final de Seminario de sistemas) Tj T* -171.1999 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 221.2099 0 Td (Pagina 8) Tj T* -221.2099 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R47': class PDFPageLabels 
+47 0 obj
+% Document Root
+<< /Nums [ 0
+ 48 0 R
+ 1
+ 49 0 R
+ 2
+ 50 0 R
+ 3
+ 51 0 R
+ 4
+ 52 0 R
+ 5
+ 53 0 R
+ 6
+ 54 0 R
+ 7
+ 55 0 R ] >>
+endobj
+% 'R48': class PDFPageLabel 
+48 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R49': class PDFPageLabel 
+49 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R50': class PDFPageLabel 
+50 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R51': class PDFPageLabel 
+51 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R52': class PDFPageLabel 
+52 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R53': class PDFPageLabel 
+53 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R54': class PDFPageLabel 
+54 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R55': class PDFPageLabel 
+55 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+xref
+0 56
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000559 00000 n
+0000000838 00000 n
+0000001117 00000 n
+0000001396 00000 n
+0000001675 00000 n
+0000001954 00000 n
+0000002233 00000 n
+0000002513 00000 n
+0000002794 00000 n
+0000002953 00000 n
+0000003201 00000 n
+0000003327 00000 n
+0000003556 00000 n
+0000003713 00000 n
+0000003897 00000 n
+0000004139 00000 n
+0000004310 00000 n
+0000004502 00000 n
+0000004701 00000 n
+0000004888 00000 n
+0000005110 00000 n
+0000005314 00000 n
+0000005518 00000 n
+0000005732 00000 n
+0000005956 00000 n
+0000006177 00000 n
+0000006354 00000 n
+0000006551 00000 n
+0000006751 00000 n
+0000007005 00000 n
+0000007193 00000 n
+0000007391 00000 n
+0000007567 00000 n
+0000007807 00000 n
+0000007954 00000 n
+0000008119 00000 n
+0000014522 00000 n
+0000024074 00000 n
+0000033347 00000 n
+0000045837 00000 n
+0000054950 00000 n
+0000066594 00000 n
+0000076542 00000 n
+0000083285 00000 n
+0000083469 00000 n
+0000083546 00000 n
+0000083623 00000 n
+0000083700 00000 n
+0000083777 00000 n
+0000083854 00000 n
+0000083931 00000 n
+0000084008 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\316\352\311\356E{\367\341U\262CT\201\362\326\033) (\316\352\311\356E{\367\341U\262CT\201\362\326\033)] 
+
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 56 >>
+startxref
+84055
+%%EOF

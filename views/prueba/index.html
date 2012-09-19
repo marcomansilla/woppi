@@ -1,0 +1,12 @@
+{{extend 'layout.html'}}
+
+<script>
+jQuery(function() {
+  jQuery('#table').change(function() {
+    web2py_component("{{=URL('prueba', 'form.load')}}" + "/" +
+      jQuery(this).val(), target='form')
+  })
+})
+</script>
+{{=SELECT('Select a table', *db.tables, _id='table')}}
+<div id="form"></div>

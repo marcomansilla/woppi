@@ -46,6 +46,19 @@ input[type=text],input[type=password],select{width:300px; margin-right:5px}
   margin:0 auto -8em; /* set last value to footer height plus footer vertical padding */
 }
 
+.boton {
+    color:black;
+    border:2px solid;
+    border-radius:25px;
+    background-color:grey;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.boton:hover {
+    background-color:white;
+    text-decoration:none;
+}
+
 .main {
   padding:20px 0 50px 0;
 }

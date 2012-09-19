@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset="UTF-8" />
+    <title> hello</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="fancybox.js"></script>
+    <link rel="stylesheet" href="jquery.fancybox.css" type="text/css" />
+<script type="text/javascript">
+      $(document).ready(function(){
+	  $('.iframe').fancybox({
+	      width:'98%',
+	      height:'98%',
+	      titlePosition:'ouside',
+	  }); //end iframe
+      }); //end ready
+    </script>    
+  </head>  
+  <body>
+    <ul>
+      <li><a href="http://www.google.com" class="iframe" title="some title">link</a> </li>
+    </ul>
+  </body>
+</html>

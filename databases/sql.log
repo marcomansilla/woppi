@@ -1,30 +1,41 @@
-timestamp: 2012-09-05T00:18:26.734072
+timestamp: 2012-09-15T00:31:06.148005
 CREATE TABLE auth_user(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    first_name CHAR(128),
-    last_name CHAR(128),
-    email CHAR(512),
+    nombre CHAR(128),
+    apellido CHAR(128),
+    dni CHAR(512),
+    f_nac CHAR(512),
+    sexo CHAR(512),
+    trato CHAR(512),
+    email CHAR(128) UNIQUE,
     password CHAR(512),
+    direccion CHAR(512),
+    ciudad CHAR(512),
+    cp CHAR(512),
+    telefono CHAR(512),
+    celular CHAR(512),
+    ocupacion CHAR(512),
+    f_alta CHAR(512),
     registration_key CHAR(512),
     reset_password_key CHAR(512),
     registration_id CHAR(512)
 );
 success!
-timestamp: 2012-09-05T00:18:26.839743
+timestamp: 2012-09-15T00:31:06.300695
 CREATE TABLE auth_group(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     role CHAR(512),
     description TEXT
 );
 success!
-timestamp: 2012-09-05T00:18:26.930562
+timestamp: 2012-09-15T00:31:06.434081
 CREATE TABLE auth_membership(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     user_id INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
     group_id INTEGER REFERENCES auth_group (id) ON DELETE CASCADE
 );
 success!
-timestamp: 2012-09-05T00:18:27.020475
+timestamp: 2012-09-15T00:31:06.559810
 CREATE TABLE auth_permission(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     group_id INTEGER REFERENCES auth_group (id) ON DELETE CASCADE,
@@ -33,7 +44,7 @@ CREATE TABLE auth_permission(
     record_id INTEGER
 );
 success!
-timestamp: 2012-09-05T00:18:27.110408
+timestamp: 2012-09-15T00:31:06.705196
 CREATE TABLE auth_event(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     time_stamp TIMESTAMP,
@@ -43,7 +54,7 @@ CREATE TABLE auth_event(
     description TEXT
 );
 success!
-timestamp: 2012-09-05T00:18:27.199710
+timestamp: 2012-09-15T00:31:06.829007
 CREATE TABLE auth_cas(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     user_id INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
@@ -53,3 +64,137 @@ CREATE TABLE auth_cas(
     renew CHAR(1)
 );
 success!
+timestamp: 2012-09-15T00:31:06.953772
+CREATE TABLE pacientes(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre CHAR(128),
+    apellido CHAR(128),
+    dni INTEGER,
+    f_nac DATE,
+    trato CHAR(512),
+    email CHAR(128) UNIQUE,
+    direccion CHAR(30),
+    ciudad CHAR(30),
+    cp CHAR(8),
+    telefono INTEGER,
+    celular INTEGER,
+    ocupacion CHAR(512),
+    f_alta TIMESTAMP,
+    activo CHAR(1)
+);
+success!
+timestamp: 2012-09-15T00:31:07.107547
+CREATE TABLE fichas(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    paciente INTEGER REFERENCES pacientes (id) ON DELETE CASCADE,
+    sexo CHAR(512),
+    ecivil CHAR(512),
+    conyugue CHAR(512),
+    alergia_med CHAR(1),
+    al_descripcion TEXT,
+    enfermedad_cronica CHAR(1),
+    en_descripcion TEXT,
+    operacion CHAR(1),
+    op_descripcion TEXT,
+    medicamento CHAR(1),
+    me_descripcion TEXT,
+    dieta CHAR(1),
+    sgrupo CHAR(512),
+    sfactor CHAR(512),
+    fuma CHAR(1)
+);
+success!
+timestamp: 2012-09-15T00:31:07.253645
+CREATE TABLE especialidades(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre CHAR(512)
+);
+success!
+timestamp: 2012-09-15T00:31:07.387150
+CREATE TABLE especialistas(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    especilidad INTEGER REFERENCES especialidades (id) ON DELETE CASCADE,
+    especialista INTEGER REFERENCES auth_user (id) ON DELETE CASCADE
+);
+success!
+timestamp: 2012-09-15T00:31:07.521451
+CREATE TABLE h_clinica(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    paciente INTEGER REFERENCES pacientes (id) ON DELETE CASCADE,
+    medico INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
+    fecha TIMESTAMP,
+    dinostico TEXT
+);
+success!
+timestamp: 2012-09-15T00:31:07.644618
+CREATE TABLE recetas(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    paciente INTEGER REFERENCES pacientes (id) ON DELETE CASCADE,
+    medico INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
+    medicamentos TEXT
+);
+success!
+timestamp: 2012-09-15T00:31:07.789710
+CREATE TABLE practicas(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    solicitante INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
+    paciente INTEGER REFERENCES pacientes (id) ON DELETE CASCADE,
+    fecha TIMESTAMP,
+    detalle TEXT
+);
+success!
+timestamp: 2012-09-15T00:31:07.946632
+CREATE TABLE informes(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    responsable INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
+    pedido INTEGER REFERENCES practicas (id) ON DELETE CASCADE,
+    fecha TIMESTAMP,
+    informe TEXT
+);
+success!
+timestamp: 2012-09-15T00:31:08.138831
+CREATE TABLE turnos_p(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    usuario INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
+    fecha DATE,
+    horario TIME,
+    consultas INTEGER
+);
+success!
+timestamp: 2012-09-19T05:02:54.953315
+CREATE TABLE fechas(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    medico INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
+    fecha DATE
+);
+success!
+timestamp: 2012-09-19T05:02:55.176898
+CREATE TABLE horarios(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    fecha INTEGER REFERENCES fechas (id) ON DELETE CASCADE,
+    hora_ini TIME,
+    hora_fin TIME
+);
+success!
+timestamp: 2012-09-19T05:02:55.345497
+CREATE TABLE turnos(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    paciente INTEGER REFERENCES pacientes (id) ON DELETE CASCADE,
+    especialidad INTEGER REFERENCES especialidades (id) ON DELETE CASCADE,
+    medico INTEGER REFERENCES auth_user (id) ON DELETE CASCADE,
+    fecha INTEGER REFERENCES fechas (id) ON DELETE CASCADE,
+    hora CHAR(512)
+);
+success!
+timestamp: 2012-09-19T05:55:44.582574
+ALTER TABLE especialistas ADD especialidad INTEGER REFERENCES especialidades (id) ON DELETE CASCADE;
+timestamp: 2012-09-19T06:18:51.088179
+ALTER TABLE auth_user ADD first_name CHAR(128);
+timestamp: 2012-09-19T06:18:51.323870
+ALTER TABLE auth_user ADD last_name CHAR(128);
+timestamp: 2012-09-19T11:16:28.170394
+ALTER TABLE auth_user ADD especialidad CHAR(512);
+timestamp: 2012-09-19T12:05:31.865628
+ALTER TABLE turnos ADD f_pedido TIMESTAMP;
+timestamp: 2012-09-19T12:05:32.040767
+ALTER TABLE turnos ADD turno CHAR(512);

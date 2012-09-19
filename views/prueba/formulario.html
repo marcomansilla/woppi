@@ -1,0 +1,40 @@
+{{#extend 'layout.html'}}
+{{=close}}
+
+{{=form}}<br/>
+
+<div style='margin-left:1%'>
+<input type='button' value='añadir' class='link' onclick="abreVentana()" >
+<br/><br/>
+
+
+
+<div id='target'> </div>
+
+</div>
+<script>
+var miPopup2
+
+ $(document).ready(function(){
+     cargarLista();
+
+});
+
+
+function abreVentana(){
+    miPopup2 = window.open("{{=URL(r=request, f='formulario2')}}","miwin2","width=500,height=400,")
+    miPopup2.focus()
+}
+
+
+function cierra()
+{
+ cargarLista();
+ miPopup2.close();
+}
+
+function cargarLista(){
+$('#target').load('listanumeros');
+} 
+
+</script>

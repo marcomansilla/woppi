@@ -8,12 +8,12 @@ databases
 errors
 sessions
 
-databases/
-errors/
-sessions/
+databases/*.*
+errors/*.*
+sessions/*.*
 
 */*.log
-*/*.sql
+*/*.sqlite
 */*.table 
 cache.*
 

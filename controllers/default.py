@@ -9,16 +9,12 @@
 ## - call exposes all registered services (none by default)
 #########################################################################
 
-def index():
-    """
-    example action using the internationalization operator T and flash
-    rendered by views/default/index.html or views/generic.html
+from plugin_dialog import DIALOG
 
-    if you need a simple wiki simple replace the two lines below with:
-    return auth.wiki()
-    """
-    response.flash = T("Welcome to web2py!")
-    return dict(message=T('Hello World'))
+def index():
+    dialog = DIALOG(LOAD(c='pacientes', f='registro', ajax=True), title='Nuevo Paciente', close_button='close', renderstyle=True)
+
+    return dict(dialog=A('Nuevo Paciente', _href='#', _class='boton',_onclick='%s;return false' % dialog.show()))
 
 def user():
     """
